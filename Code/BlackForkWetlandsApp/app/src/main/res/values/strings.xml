@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Black Fork Wetlands App</string>
+    <string name="organism_test_name">Organism test name</string>
+    <string name="organism_test_description">Organism test description</string>
+</resources>
