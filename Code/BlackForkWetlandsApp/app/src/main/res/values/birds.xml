@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="bird_1_name">﻿Pied-billed grebe</string>
+    <string name="bird_1_des">Replace Me</string>
+
+    <string name="bird_2_name">Horned grebe</string>
+    <string name="bird_2_des">Replace Me</string>
+
+    <string name="bird_3_name">Double-crested cormorant</string>
+    <string name="bird_3_des">Replace Me</string>
+
+    <string name="bird_4_name">American bittern</string>
+    <string name="bird_4_des">Replace Me</string>
+
+    <string name="bird_5_name">Least bittern</string>
+    <string name="bird_5_des">Replace Me</string>
+
+    <string name="bird_6_name">Great blue heron</string>
+    <string name="bird_6_des">Replace Me</string>
+
+    <string name="bird_7_name">Great egret</string>
+    <string name="bird_7_des">Replace Me</string>
+
+    <string name="bird_8_name">Snowy egret</string>
+    <string name="bird_8_des">Replace Me</string>
+
+    <string name="bird_9_name">Green heron</string>
+    <string name="bird_9_des">Replace Me</string>
+
+    <string name="bird_10_name">Trumpeter swan</string>
+    <string name="bird_10_des">Replace Me</string>
+
+    <string name="bird_11_name">Tundra swan</string>
+    <string name="bird_11_des">Replace Me</string>
+
+    <string name="bird_12_name">Greater white-fronted goose</string>
+    <string name="bird_12_des">Replace Me</string>
+
+    <string name="bird_13_name">Canada goose</string>
+    <string name="bird_13_des">Replace Me</string>
+
+    <string name="bird_14_name">Wood duck</string>
+    <string name="bird_14_des">Replace Me</string>
+
+    <string name="bird_15_name">Mallard</string>
+    <string name="bird_15_des">Replace Me</string>
+
+    <string name="bird_16_name">American black duck</string>
+    <string name="bird_16_des">Replace Me</string>
+
+    <string name="bird_17_name">Gadwall</string>
+    <string name="bird_17_des">Replace Me</string>
+
+    <string name="bird_18_name">Northern shoveler</string>
+    <string name="bird_18_des">Replace Me</string>
+
+    <string name="bird_19_name">Blue-winged teal</string>
+    <string name="bird_19_des">Replace Me</string>
+
+    <string name="bird_20_name">Green-winged teal</string>
+    <string name="bird_20_des">Replace Me</string>
+
+    <string name="bird_21_name">American wigeon</string>
+    <string name="bird_21_des">Replace Me</string>
+
+    <string name="bird_22_name">Northern pintail</string>
+    <string name="bird_22_des">Replace Me</string>
+
+    <string name="bird_23_name">Canvasback</string>
+    <string name="bird_23_des">Replace Me</string>
+
+    <string name="bird_24_name">Redhead</string>
+    <string name="bird_24_des">Replace Me</string>
+
+    <string name="bird_25_name">Ring-necked duck</string>
+    <string name="bird_25_des">Replace Me</string>
+
+    <string name="bird_26_name">Lesser scaup</string>
+    <string name="bird_26_des">Replace Me</string>
+
+    <string name="bird_27_name">Bufflehead</string>
+    <string name="bird_27_des">Replace Me</string>
+
+    <string name="bird_28_name">Hooded merganser</string>
+    <string name="bird_28_des">Replace Me</string>
+
+    <string name="bird_29_name">Ruddy duck</string>
+    <string name="bird_29_des">Replace Me</string>
+
+    <string name="bird_30_name">Turkey vulture</string>
+    <string name="bird_30_des">Replace Me</string>
+
+    <string name="bird_31_name">Osprey</string>
+    <string name="bird_31_des">Replace Me</string>
+
+    <string name="bird_32_name">Sharp-shinned hawk</string>
+    <string name="bird_32_des">Replace Me</string>
+
+    <string name="bird_33_name">Cooper’s hawk</string>
+    <string name="bird_33_des">Replace Me</string>
+
+    <string name="bird_34_name">Red-shouldered hawk</string>
+    <string name="bird_34_des">Replace Me</string>
+
+    <string name="bird_35_name">Red-tailed hawk</string>
+    <string name="bird_35_des">Replace Me</string>
+
+    <string name="bird_36_name">Rough-legged hawk</string>
+    <string name="bird_36_des">Replace Me</string>
+
+    <string name="bird_37_name">Bald eagle</string>
+    <string name="bird_37_des">Replace Me</string>
+
+    <string name="bird_38_name">American kestrel</string>
+    <string name="bird_38_des">Replace Me</string>
+
+    <string name="bird_39_name">Peregrine falcon</string>
+    <string name="bird_39_des">Replace Me</string>
+
+    <string name="bird_40_name">Wild turkey</string>
+    <string name="bird_40_des">Replace Me</string>
+
+    <string name="bird_41_name">King rail</string>
+    <string name="bird_41_des">Replace Me</string>
+
+    <string name="bird_42_name">Virginia rail</string>
+    <string name="bird_42_des">Replace Me</string>
+
+    <string name="bird_43_name">Sora</string>
+    <string name="bird_43_des">Replace Me</string>
+
+    <string name="bird_44_name">American coot</string>
+    <string name="bird_44_des">Replace Me</string>
+
+    <string name="bird_45_name">Sandhill crane</string>
+    <string name="bird_45_des">Replace Me</string>
+
+    <string name="bird_46_name">Killdeer</string>
+    <string name="bird_46_des">Replace Me</string>
+
+    <string name="bird_47_name">Greater yellowlegs</string>
+    <string name="bird_47_des">Replace Me</string>
+
+    <string name="bird_48_name">Lesser yellowlegs</string>
+    <string name="bird_48_des">Replace Me</string>
+
+    <string name="bird_49_name">Solitary sandpiper</string>
+    <string name="bird_49_des">Replace Me</string>
+
+    <string name="bird_50_name">Spotted sandpiper</string>
+    <string name="bird_50_des">Replace Me</string>
+
+    <string name="bird_51_name">Dunlin</string>
+    <string name="bird_51_des">Replace Me</string>
+
+    <string name="bird_52_name">Least sandpiper</string>
+    <string name="bird_52_des">Replace Me</string>
+
+    <string name="bird_53_name">Pectoral sandpiper</string>
+    <string name="bird_53_des">Replace Me</string>
+
+    <string name="bird_54_name">Wilson’s snipe</string>
+    <string name="bird_54_des">Replace Me</string>
+
+    <string name="bird_55_name">American woodcock</string>
+    <string name="bird_55_des">Replace Me</string>
+
+    <string name="bird_56_name">Ring-billed gull</string>
+    <string name="bird_56_des">Replace Me</string>
+
+    <string name="bird_57_name">Herring gull</string>
+    <string name="bird_57_des">Replace Me</string>
+
+    <string name="bird_58_name">Rock dove</string>
+    <string name="bird_58_des">Replace Me</string>
+
+    <string name="bird_59_name">Mourning dove</string>
+    <string name="bird_59_des">Replace Me</string>
+
+    <string name="bird_60_name">Black-billed cuckoo</string>
+    <string name="bird_60_des">Replace Me</string>
+
+    <string name="bird_61_name">Yellow-billed cuckoo</string>
+    <string name="bird_61_des">Replace Me</string>
+
+    <string name="bird_62_name">Barred owl</string>
+    <string name="bird_62_des">Replace Me</string>
+
+    <string name="bird_63_name">Common nighthawk</string>
+    <string name="bird_63_des">Replace Me</string>
+
+    <string name="bird_64_name">Chimney swift</string>
+    <string name="bird_64_des">Replace Me</string>
+
+    <string name="bird_65_name">Ruby-throated hummingbird</string>
+    <string name="bird_65_des">Replace Me</string>
+
+    <string name="bird_66_name">Belted kingfisher</string>
+    <string name="bird_66_des">Replace Me</string>
+
+    <string name="bird_67_name">Red-headed woodpecker</string>
+    <string name="bird_67_des">Replace Me</string>
+
+    <string name="bird_68_name">Red-bellied woodpecker</string>
+    <string name="bird_68_des">Replace Me</string>
+
+    <string name="bird_69_name">Downy woodpecker</string>
+    <string name="bird_69_des">Replace Me</string>
+
+    <string name="bird_70_name">Hairy woodpecker</string>
+    <string name="bird_70_des">Replace Me</string>
+
+    <string name="bird_71_name">Northern flicker</string>
+    <string name="bird_71_des">Replace Me</string>
+
+    <string name="bird_72_name">Pileated woodpecker</string>
+    <string name="bird_72_des">Replace Me</string>
+
+    <string name="bird_73_name">Olive-sided flycatcher</string>
+    <string name="bird_73_des">Replace Me</string>
+
+    <string name="bird_74_name">Eastern wood-pewee</string>
+    <string name="bird_74_des">Replace Me</string>
+
+    <string name="bird_75_name">Yellow-bellied flycatcher</string>
+    <string name="bird_75_des">Replace Me</string>
+
+    <string name="bird_76_name">Acadian flycatcher</string>
+    <string name="bird_76_des">Replace Me</string>
+
+    <string name="bird_77_name">Willow flycatcher</string>
+    <string name="bird_77_des">Replace Me</string>
+
+    <string name="bird_78_name">Eastern phoebe</string>
+    <string name="bird_78_des">Replace Me</string>
+
+    <string name="bird_79_name">Great crested flycatcher</string>
+    <string name="bird_79_des">Replace Me</string>
+
+    <string name="bird_80_name">Eastern kingbird</string>
+    <string name="bird_80_des">Replace Me</string>
+
+    <string name="bird_81_name">White-eyed vireo</string>
+    <string name="bird_81_des">Replace Me</string>
+
+    <string name="bird_82_name">Yellow-throated vireo</string>
+    <string name="bird_82_des">Replace Me</string>
+
+    <string name="bird_83_name">Warbling vireo</string>
+    <string name="bird_83_des">Replace Me</string>
+
+    <string name="bird_84_name">Red-eyed vireo</string>
+    <string name="bird_84_des">Replace Me</string>
+
+    <string name="bird_85_name">Blue jay</string>
+    <string name="bird_85_des">Replace Me</string>
+
+    <string name="bird_86_name">American crow</string>
+    <string name="bird_86_des">Replace Me</string>
+
+    <string name="bird_87_name">Barn swallow</string>
+    <string name="bird_87_des">Replace Me</string>
+
+    <string name="bird_88_name">Tree swallow</string>
+    <string name="bird_88_des">Replace Me</string>
+
+    <string name="bird_89_name">Purple martin</string>
+    <string name="bird_89_des">Replace Me</string>
+
+    <string name="bird_90_name">Northern rough-winged swallow</string>
+    <string name="bird_90_des">Replace Me</string>
+
+    <string name="bird_91_name">Bank swallow</string>
+    <string name="bird_91_des">Replace Me</string>
+
+    <string name="bird_92_name">Cliff swallow</string>
+    <string name="bird_92_des">Replace Me</string>
+
+    <string name="bird_93_name">Carolina chickadee</string>
+    <string name="bird_93_des">Replace Me</string>
+
+    <string name="bird_94_name">Black-capped chickadee</string>
+    <string name="bird_94_des">Replace Me</string>
+
+    <string name="bird_95_name">Brown creeper</string>
+    <string name="bird_95_des">Replace Me</string>
+
+    <string name="bird_96_name">Tufted titmouse</string>
+    <string name="bird_96_des">Replace Me</string>
+
+    <string name="bird_97_name">White-breasted nuthatch</string>
+    <string name="bird_97_des">Replace Me</string>
+
+    <string name="bird_98_name">Sedge wren</string>
+    <string name="bird_98_des">Replace Me</string>
+
+    <string name="bird_99_name">Marsh wren</string>
+    <string name="bird_99_des">Replace Me</string>
+
+    <string name="bird_100_name">Carolina wren</string>
+    <string name="bird_100_des">Replace Me</string>
+
+    <string name="bird_101_name">House wren</string>
+    <string name="bird_101_des">Replace Me</string>
+
+    <string name="bird_102_name">Golden-crowned kinglet</string>
+    <string name="bird_102_des">Replace Me</string>
+
+    <string name="bird_103_name">Blue-gray gnatcatcher</string>
+    <string name="bird_103_des">Replace Me</string>
+
+    <string name="bird_104_name">Eastern bluebird</string>
+    <string name="bird_104_des">Replace Me</string>
+
+    <string name="bird_105_name">Veery</string>
+    <string name="bird_105_des">Replace Me</string>
+
+    <string name="bird_106_name">Wood thrush</string>
+    <string name="bird_106_des">Replace Me</string>
+
+    <string name="bird_107_name">American robin</string>
+    <string name="bird_107_des">Replace Me</string>
+
+    <string name="bird_108_name">Gray catbird</string>
+    <string name="bird_108_des">Replace Me</string>
+
+    <string name="bird_109_name">Northern mockingbird</string>
+    <string name="bird_109_des">Replace Me</string>
+
+    <string name="bird_110_name">Brown thrasher</string>
+    <string name="bird_110_des">Replace Me</string>
+
+    <string name="bird_111_name">Cedar waxwing</string>
+    <string name="bird_111_des">Replace Me</string>
+
+    <string name="bird_112_name">European starling</string>
+    <string name="bird_112_des">Replace Me</string>
+
+    <string name="bird_113_name">Yellow warbler</string>
+    <string name="bird_113_des">Replace Me</string>
+
+    <string name="bird_114_name">Yellow-rumped warbler</string>
+    <string name="bird_114_des">Replace Me</string>
+
+    <string name="bird_115_name">Palm warbler</string>
+    <string name="bird_115_des">Replace Me</string>
+
+    <string name="bird_116_name">American redstart</string>
+    <string name="bird_116_des">Replace Me</string>
+
+    <string name="bird_117_name">Prothonotary warbler</string>
+    <string name="bird_117_des">Replace Me</string>
+
+    <string name="bird_118_name">Common yellowthroat</string>
+    <string name="bird_118_des">Replace Me</string>
+
+    <string name="bird_119_name">Yellow-breasted chat</string>
+    <string name="bird_119_des">Replace Me</string>
+
+    <string name="bird_120_name">Scarlet tanager</string>
+    <string name="bird_120_des">Replace Me</string>
+
+    <string name="bird_121_name">Rose-breasted grosbeak</string>
+    <string name="bird_121_des">Replace Me</string>
+
+    <string name="bird_122_name">Indigo bunting</string>
+    <string name="bird_122_des">Replace Me</string>
+
+    <string name="bird_123_name">Northern cardinal</string>
+    <string name="bird_123_des">Replace Me</string>
+
+    <string name="bird_124_name">Eastern towhee</string>
+    <string name="bird_124_des">Replace Me</string>
+
+    <string name="bird_125_name">American tree sparrow</string>
+    <string name="bird_125_des">Replace Me</string>
+
+    <string name="bird_126_name">Chipping sparrow</string>
+    <string name="bird_126_des">Replace Me</string>
+
+    <string name="bird_127_name">Field sparrow</string>
+    <string name="bird_127_des">Replace Me</string>
+
+    <string name="bird_128_name">Song sparrow</string>
+    <string name="bird_128_des">Replace Me</string>
+
+    <string name="bird_129_name">Swamp sparrow</string>
+    <string name="bird_129_des">Replace Me</string>
+
+    <string name="bird_130_name">White-throated sparrow</string>
+    <string name="bird_130_des">Replace Me</string>
+
+    <string name="bird_131_name">White-crowned sparrow</string>
+    <string name="bird_131_des">Replace Me</string>
+
+    <string name="bird_132_name">Dark-eyed junco</string>
+    <string name="bird_132_des">Replace Me</string>
+
+    <string name="bird_133_name">Orchard oriole</string>
+    <string name="bird_133_des">Replace Me</string>
+
+    <string name="bird_134_name">Baltimore oriole</string>
+    <string name="bird_134_des">Replace Me</string>
+
+    <string name="bird_135_name">Red-winged blackbird</string>
+    <string name="bird_135_des">Replace Me</string>
+
+    <string name="bird_136_name">Eastern meadowlark</string>
+    <string name="bird_136_des">Replace Me</string>
+
+    <string name="bird_137_name">Common grackle</string>
+    <string name="bird_137_des">Replace Me</string>
+
+    <string name="bird_138_name">Brown-headed cowbird</string>
+    <string name="bird_138_des">Replace Me</string>
+
+    <string name="bird_139_name">House sparrow</string>
+    <string name="bird_139_des">Replace Me</string>
+
+    <string name="bird_140_name">American goldfinch</string>
+    <string name="bird_140_des">Replace Me</string>
+
+    <string name="bird_141_name">House finch</string>
+    <string name="bird_141_des">Replace Me</string>
+
+</resources>
