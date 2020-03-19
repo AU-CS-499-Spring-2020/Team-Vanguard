@@ -19,6 +19,9 @@
         <activity android:name=".AnimalsActivity"></activity>
         <activity android:name=".BirdsActivity"></activity>
         <activity android:name=".PlantsActivity"></activity>
+        <activity android:name=".TreesActivity"></activity>
+        <activity android:name=".InsectsActivity"></activity>
+
     </application>
 
 </manifest>

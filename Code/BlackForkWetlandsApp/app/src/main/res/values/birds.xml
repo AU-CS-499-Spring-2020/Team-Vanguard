@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="bird_1_name">﻿Pied-billed grebe</string>
+    <string name="bird_1_name">Pied-billed Grebe</string>
     <string name="bird_1_des">Replace Me</string>
 
-    <string name="bird_2_name">Horned grebe</string>
+    <string name="bird_2_name">Horned Grebe</string>
     <string name="bird_2_des">Replace Me</string>
 
-    <string name="bird_3_name">Double-crested cormorant</string>
+    <string name="bird_3_name">Double-crested Cormorant</string>
     <string name="bird_3_des">Replace Me</string>
 
-    <string name="bird_4_name">American bittern</string>
+    <string name="bird_4_name">American Bittern</string>
     <string name="bird_4_des">Replace Me</string>
 
-    <string name="bird_5_name">Least bittern</string>
+    <string name="bird_5_name">Least Bittern</string>
     <string name="bird_5_des">Replace Me</string>
 
     <string name="bird_6_name">Great blue heron</string>

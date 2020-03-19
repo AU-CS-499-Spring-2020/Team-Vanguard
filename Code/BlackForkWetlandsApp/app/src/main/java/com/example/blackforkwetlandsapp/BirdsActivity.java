@@ -17,7 +17,7 @@ public class BirdsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.bird_activity_layout);
+        setContentView(R.layout.recycler_layout);
 
 
         birdList = new ArrayList<>();

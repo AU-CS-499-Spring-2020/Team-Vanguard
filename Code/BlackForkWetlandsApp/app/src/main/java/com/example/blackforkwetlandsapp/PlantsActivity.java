@@ -17,7 +17,7 @@ public class PlantsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.plant_activity_layout);
+        setContentView(R.layout.recycler_layout);
 
 
         plantList = new ArrayList<>();

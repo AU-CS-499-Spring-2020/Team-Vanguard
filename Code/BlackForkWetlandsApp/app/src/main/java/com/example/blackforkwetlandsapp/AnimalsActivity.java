@@ -17,7 +17,7 @@ public class AnimalsActivity extends AppCompatActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.animal_activity_layout);
+        setContentView(R.layout.recycler_layout);
 
 
         animalList = new ArrayList<>();
