@@ -25,3 +25,5 @@
 **3/04/2020 8:00pm-10:00pm** Finished the progress report and another team meeting
 
 **3/17/2020** Added some of the data that Dr.Wilson provided for us. At this point we are basically just waiting on Dr.Saunders from the Bio Department to get back to us with the remainder of the data for the app or at least instructions on how to access it. 
+
+**3/19/2020 12:00pm-5:00pm** Made the actual main page to make it closer to its final form rather than the buttons it was before that were only there for testing purposes. Also restyled pretty much the whole app to make it look a little better as well as more Ashland Themed. Also added some other misc stuff as well as removeing some redundent files
