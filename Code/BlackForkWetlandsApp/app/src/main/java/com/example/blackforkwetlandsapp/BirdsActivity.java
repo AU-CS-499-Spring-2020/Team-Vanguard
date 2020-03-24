@@ -25,24 +25,9 @@ public class BirdsActivity extends AppCompatActivity {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(linearLayoutManager);
 
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
-        birdList.add(new OrganismClass(getString(R.string.bird_test_name)
-                , getString(R.string.bird_test_description), R.drawable.ic_android2));
+        birdList.add(new OrganismClass(getString(R.string.bird_1_name)
+                , getString(R.string.bird_1_des), R.drawable.ic_android2));
+
 
 
         OrganismRecyclerAdapter recyclerAdapter = new OrganismRecyclerAdapter(birdList);

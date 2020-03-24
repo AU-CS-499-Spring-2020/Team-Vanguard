@@ -2,7 +2,10 @@
 <resources>
 
     <string name="bird_1_name">Pied-billed Grebe</string>
-    <string name="bird_1_des">Replace Me</string>
+    <string name="bird_1_des">(Podilymbus podiceps) is a species of the grebe family of water birds.
+        Since the Atitlán grebe (Podilymbus gigas) has become extinct, it is the sole extant member
+        of the genus Podilymbus. The pied-billed grebe is primarily found in ponds throughout the Americas.
+        https://en.wikipedia.org/wiki/Pied-billed_grebe</string>
 
     <string name="bird_2_name">Horned Grebe</string>
     <string name="bird_2_des">Replace Me</string>
