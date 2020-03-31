@@ -27,7 +27,7 @@ public class BirdsActivity extends AppCompatActivity {
 
         birdList.add(new OrganismClass(getString(R.string.bird_1_name)
                 , getString(R.string.bird_1_des), R.drawable.ic_android2));
-
+        
 
 
         OrganismRecyclerAdapter recyclerAdapter = new OrganismRecyclerAdapter(birdList);
