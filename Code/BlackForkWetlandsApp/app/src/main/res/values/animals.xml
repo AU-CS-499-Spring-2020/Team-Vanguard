@@ -9,88 +9,170 @@
     </string>
 
     <string name="animal_2_name">American beaver</string>
-    <string name="animal_2_des">Replace Me</string>
+    <string name="animal_2_des">(Castor canadensis) is one of two extant beaver species (the other being
+        the Eurasian beaver, Castor fiber). It is native to North America, the species is often referred
+        to simply as "beaver"
+        https://en.wikipedia.org/wiki/North_American_beaver
+    </string>
 
     <string name="animal_3_name">Brown rat</string>
-    <string name="animal_3_des">Replace Me</string>
+    <string name="animal_3_des">(Rattus norvegicus), also known as the common rat, street rat, sewer rat,
+        Hanover rat, Norway rat, Norwegian rat, Parisian rat or wharf rat, is one of the best known and
+        most common rats.
+        https://en.wikipedia.org/wiki/Brown_rat
+    </string>
 
     <string name="animal_4_name">Common muskrat</string>
-    <string name="animal_4_des">Replace Me</string>
+    <string name="animal_4_des">(Ondatra zibethicus), the only species in genus Ondatra and tribe
+        Ondatrini, is a medium-sized semiaquatic rodent native to North America.
+        The muskrat is found in wetlands over a wide range of climates and habitats.
+        https://en.wikipedia.org/wiki/Muskrat
+    </string>
 
     <string name="animal_5_name">Eastern chipmunk</string>
-    <string name="animal_5_des">Replace Me</string>
+    <string name="animal_5_des">(Tamias striatus) is a chipmunk species found in eastern North America.
+        It is the only living member of the chipmunk subgenus Tamias, sometimes recognized as a separate genus.
+        The name "chipmunk" comes from the Ojibwe word ajidamoo, which translates literally as one
+        who descends trees headlong.
+        https://en.wikipedia.org/wiki/Eastern_chipmunk
+    </string>
 
     <string name="animal_6_name">Eastern fox squirrel</string>
-    <string name="animal_6_des">Replace Me</string>
+    <string name="animal_6_des">(Sciurus niger), also known as the eastern fox squirrel, is the
+        largest species of tree squirrel native to North America.
+        https://en.wikipedia.org/wiki/Fox_squirrel
+    </string>
 
     <string name="animal_7_name">Eastern gray squirrel</string>
-    <string name="animal_7_des">Replace Me</string>
+    <string name="animal_7_des">(Sciurus carolinensis), also known as the grey squirrel depending on
+        region, is a tree squirrel in the genus Sciurus. It is native to eastern North America, where
+        it is the most prodigious and ecologically essential natural forest regenerator.
+        https://en.wikipedia.org/wiki/Eastern_gray_squirrel
+    </string>
 
     <string name="animal_8_name">House mouse</string>
-    <string name="animal_8_des">Replace Me</string>
+    <string name="animal_8_des">(Mus musculus) is a small mammal of the order Rodentia, characteristically
+        having a pointed snout, large rounded ears, and a long and hairy tail. It is one of the most
+        abundant species of the genus Mus.
+        https://en.wikipedia.org/wiki/House_mouse
+    </string>
 
     <string name="animal_9_name">Meadow vole</string>
-    <string name="animal_9_des">Replace Me</string>
+    <string name="animal_9_des">(Microtus pennsylvanicus), sometimes called the field mouse or meadow mouse,
+        is a North American vole found across Canada, Alaska and the northern United States.
+        https://en.wikipedia.org/wiki/Meadow_vole
+    </string>
 
     <string name="animal_10_name">Red squirrel</string>
-    <string name="animal_10_des">Replace Me</string>
+    <string name="animal_10_des">(Sciurus vulgaris) is a species of tree squirrel in the genus Sciurus
+        common throughout Eurasia. The red squirrel is an arboreal, omnivorous rodent.
+        https://en.wikipedia.org/wiki/Red_squirrel
+    </string>
 
     <string name="animal_11_name">Southern flying squirrel</string>
-    <string name="animal_11_des">Replace Me</string>
+    <string name="animal_11_des">(Glaucomys volans) is one of three species of the genus Glaucomys and
+        one of three flying squirrel species found in North America. It is found in deciduous and mixed
+        woods in the eastern half of North America.
+        https://en.wikipedia.org/wiki/Southern_flying_squirrel
+    </string>
 
     <string name="animal_12_name">White-footed mouse</string>
-    <string name="animal_12_des">Replace Me</string>
+    <string name="animal_12_des">(Peromyscus leucopus) is a rodent native to North America.
+        It is also known as the woodmouse. https://en.wikipedia.org/wiki/White-footed_mouse</string>
 
-    <string name="animal_13_name">Woodchuck</string>
-    <string name="animal_13_des">Replace Me</string>
+    <string name="animal_13_name">Groundhog</string>
+    <string name="animal_13_des">(Marmota monax), also known as a woodchuck, is a rodent of the family
+        Sciuridae, belonging to the group of large ground squirrels known as marmots. https://en.wikipedia.org/wiki/Groundhog
+    </string>
 
     <string name="animal_14_name">Eastern cottontail rabbit</string>
-    <string name="animal_14_des">Replace Me</string>
+    <string name="animal_14_des">(Sylvilagus floridanus) is a New World cottontail rabbit, a member
+        of the family Leporidae. It is the most common rabbit species in North America.
+        https://en.wikipedia.org/wiki/Eastern_cottontail</string>
 
     <string name="animal_15_name">Eastern mole</string>
-    <string name="animal_15_des">Replace Me</string>
+    <string name="animal_15_des">(Scalopus aquaticus) is a medium-sized, overall grey North American
+        mole and the only member of the genus Scalopus. Its large, hairless, spade-shaped forefeet
+        are adapted for digging. https://en.wikipedia.org/wiki/Eastern_mole</string>
 
     <string name="animal_16_name">Northern short-tailed shrew</string>
-    <string name="animal_16_des">Replace Me</string>
+    <string name="animal_16_des">(Blarina brevicauda) is the largest shrew in the genus Blarina,
+        and occurs in the northeastern region of North America. It is a semifossorial, highly active,
+        and voracious insectivore and is present in a variety of habitats like broadleaved and pine
+        forests among shrubs and hedges as well as grassy river banks.
+        https://en.wikipedia.org/wiki/Northern_short-tailed_shrew</string>
 
     <string name="animal_17_name">Big brown bat</string>
-    <string name="animal_17_des">Replace Me</string>
+    <string name="animal_17_des">(Eptesicus fuscus) is a species of vesper bat distributed widely
+        throughout North America, the Caribbean, and the northern portion of South America. They are nocturnal,
+        foraging for prey at night and roosting in sheltered areas during the day such as caves, tunnels,
+        tree cavities, and human structures. https://en.wikipedia.org/wiki/Big_brown_bat</string>
 
     <string name="animal_18_name">Little brown bat</string>
-    <string name="animal_18_des">Replace Me</string>
+    <string name="animal_18_des">(Myotis lucifugus) is a species of mouse-eared microbat found in
+        North America. It has a small body size and glossy brown fur. Despite its name, the little brown
+        bat is not closely related to the big brown bat, which belongs to a different genus.
+        https://en.wikipedia.org/wiki/Little_brown_bat</string>
 
     <string name="animal_19_name">Northern long-eared bat</string>
-    <string name="animal_19_des">Replace Me</string>
+    <string name="animal_19_des">(Myotis septentrionalis) </string>
 
     <string name="animal_20_name">American mink</string>
-    <string name="animal_20_des">Replace Me</string>
+    <string name="animal_20_des">(Neovison vison) is a semiaquatic species of mustelid native to North America.
+        The American mink is a carnivore that feeds on rodents, fish, crustaceans, frogs, and birds.
+        https://en.wikipedia.org/wiki/American_mink
+    </string>
 
     <string name="animal_21_name">Bobcat</string>
-    <string name="animal_21_des">Replace Me</string>
+    <string name="animal_21_des">(Lynx rufus) is a medium-sized North American cat. The bobcat is an
+        adaptable predator that inhabits wooded areas, as well as semidesert, urban edge, forest edge,
+        and swampland environments.</string>
 
     <string name="animal_22_name">Coyote</string>
-    <string name="animal_22_des">Replace Me</string>
+    <string name="animal_22_des"> (Canis latrans) is a species of canine native to North America. It
+        is smaller than its close relative, the gray wolf, and slightly smaller than the closely related
+        eastern wolf and red wolf. https://en.wikipedia.org/wiki/Coyote
+    </string>
 
     <string name="animal_23_name">Least weasel</string>
-    <string name="animal_23_des">Replace Me</string>
+    <string name="animal_23_des">(Mustela nivalis), little weasel, common weasel, or simply weasel,
+        is the smallest member of the genus Mustela, family Mustelidae and order Carnivora.
+        https://en.wikipedia.org/wiki/Least_weasel
+    </string>
 
     <string name="animal_24_name">Long-tailed weasel</string>
-    <string name="animal_24_des">Replace Me</string>
+    <string name="animal_24_des">(Mustela frenata), also known as the bridled weasel or big stoat,
+        is a species of mustelid distributed from southern Canada throughout all the United States and
+        Mexico, southward through all of Central America and into northern South America.
+        https://en.wikipedia.org/wiki/Long-tailed_weasel
+    </string>
 
     <string name="animal_25_name">Raccoon</string>
-    <string name="animal_25_des">Replace Me</string>
+    <string name="animal_25_des">(Procyon lotor) is a medium-sized mammal native to North America.
+        The raccoon is the largest of the procyonid family. Three of the raccoon"'"s most distinctive
+        features are its extremely dexterous front paws, its facial mask, and its ringed tail.
+        https://en.wikipedia.org/wiki/Raccoon
+    </string>
 
     <string name="animal_26_name">Red fox</string>
-    <string name="animal_26_des">Replace Me</string>
+    <string name="animal_26_des">(Vulpes vulpes) is the largest of the true foxes and one of the most
+        widely distributed members of the order Carnivora, being present across the entire Northern
+        Hemisphere from the Arctic Circle to North Africa, North America and Eurasia. https://en.wikipedia.org/wiki/Red_fox</string>
 
     <string name="animal_27_name">River otter</string>
-    <string name="animal_27_des">Replace Me</string>
+    <string name="animal_27_des">(Lontra canadensis), also known as the northern river otter or the
+        common otter, is a semiaquatic mammal endemic to the North American continent found in and
+        along its waterways and coasts. https://en.wikipedia.org/wiki/North_American_river_otter</string>
 
     <string name="animal_28_name">Striped skunk</string>
-    <string name="animal_28_des">Replace Me</string>
+    <string name="animal_28_des">(Mephitis mephitis) is a skunk of the genus Mephitis that occurs across most of North America. Striped
+        skunks are polygamous omnivores with few natural predators, save for birds of prey. Like all skunks,
+        they possess highly developed, musk-filled scent glands to ward off predators. https://en.wikipedia.org/wiki/Striped_skunk</string>
 
     <string name="animal_29_name">White-tailed deer</string>
-    <string name="animal_29_des">Replace Me</string>
+    <string name="animal_29_des">(Odocoileus virginianus) is a medium-sized deer native to North America,
+        Central America, Ecuador, and South America https://en.wikipedia.org/wiki/White-tailed_deer
+    </string>
 
 
 </resources>
