@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="animal_1_name">Virginia opossum</string>
+    <string name="animal_1_des">(Didelphis virginiana), commonly known as the North American opossum,
+        is the only marsupial found north of Mexico. Is typically referred
+        to simply as a possum. It is a solitary and nocturnal animal about the size of a domestic cat.
+        https://en.wikipedia.org/wiki/Virginia_opossum
+    </string>
+
+    <string name="animal_2_name">American beaver</string>
+    <string name="animal_2_des">Replace Me</string>
+
+    <string name="animal_3_name">Brown rat</string>
+    <string name="animal_3_des">Replace Me</string>
+
+    <string name="animal_4_name">Common muskrat</string>
+    <string name="animal_4_des">Replace Me</string>
+
+    <string name="animal_5_name">Eastern chipmunk</string>
+    <string name="animal_5_des">Replace Me</string>
+
+    <string name="animal_6_name">Eastern fox squirrel</string>
+    <string name="animal_6_des">Replace Me</string>
+
+    <string name="animal_7_name">Eastern gray squirrel</string>
+    <string name="animal_7_des">Replace Me</string>
+
+    <string name="animal_8_name">House mouse</string>
+    <string name="animal_8_des">Replace Me</string>
+
+    <string name="animal_9_name">Meadow vole</string>
+    <string name="animal_9_des">Replace Me</string>
+
+    <string name="animal_10_name">Red squirrel</string>
+    <string name="animal_10_des">Replace Me</string>
+
+    <string name="animal_11_name">Southern flying squirrel</string>
+    <string name="animal_11_des">Replace Me</string>
+
+    <string name="animal_12_name">White-footed mouse</string>
+    <string name="animal_12_des">Replace Me</string>
+
+    <string name="animal_13_name">Woodchuck</string>
+    <string name="animal_13_des">Replace Me</string>
+
+    <string name="animal_14_name">Eastern cottontail rabbit</string>
+    <string name="animal_14_des">Replace Me</string>
+
+    <string name="animal_15_name">Eastern mole</string>
+    <string name="animal_15_des">Replace Me</string>
+
+    <string name="animal_16_name">Northern short-tailed shrew</string>
+    <string name="animal_16_des">Replace Me</string>
+
+    <string name="animal_17_name">Big brown bat</string>
+    <string name="animal_17_des">Replace Me</string>
+
+    <string name="animal_18_name">Little brown bat</string>
+    <string name="animal_18_des">Replace Me</string>
+
+    <string name="animal_19_name">Northern long-eared bat</string>
+    <string name="animal_19_des">Replace Me</string>
+
+    <string name="animal_20_name">American mink</string>
+    <string name="animal_20_des">Replace Me</string>
+
+    <string name="animal_21_name">Bobcat</string>
+    <string name="animal_21_des">Replace Me</string>
+
+    <string name="animal_22_name">Coyote</string>
+    <string name="animal_22_des">Replace Me</string>
+
+    <string name="animal_23_name">Least weasel</string>
+    <string name="animal_23_des">Replace Me</string>
+
+    <string name="animal_24_name">Long-tailed weasel</string>
+    <string name="animal_24_des">Replace Me</string>
+
+    <string name="animal_25_name">Raccoon</string>
+    <string name="animal_25_des">Replace Me</string>
+
+    <string name="animal_26_name">Red fox</string>
+    <string name="animal_26_des">Replace Me</string>
+
+    <string name="animal_27_name">River otter</string>
+    <string name="animal_27_des">Replace Me</string>
+
+    <string name="animal_28_name">Striped skunk</string>
+    <string name="animal_28_des">Replace Me</string>
+
+    <string name="animal_29_name">White-tailed deer</string>
+    <string name="animal_29_des">Replace Me</string>
+
+
+</resources>
