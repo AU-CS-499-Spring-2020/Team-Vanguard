@@ -2,130 +2,296 @@
 <resources>
 
     <string name="tree_1_name">Tulip tree</string>
-    <string name="tree_1_des">Replace Me</string>
+    <string name="tree_1_des">Liriodendron /ˌlaɪriəˈdɛndrən, ˌlɪr-, -ioʊ-/ is a genus of two species
+        of characteristically large trees, deciduous over most of their populations, in the magnolia
+        family (Magnoliaceae).
+        https://en.wikipedia.org/wiki/Liriodendron
+    </string>
 
     <string name="tree_2_name">Sycamore</string>
-    <string name="tree_2_des">Replace Me</string>
+    <string name="tree_2_des">Platanus occidentalis, also known as American sycamore, American
+        planetree, western plane, occidental plane, buttonwood, and water beech, is a species
+        of Platanus native to the eastern and central United States.
+        https://en.wikipedia.org/wiki/Platanus_occidentalis
+    </string>
 
     <string name="tree_3_name">American elm</string>
-    <string name="tree_3_des">Replace Me</string>
+    <string name="tree_3_des">Ulmus americana, generally known as the American elm or, less
+        commonly, as the white elm or water elm,[a] is a species native to eastern North America.
+        https://en.wikipedia.org/wiki/Ulmus_americana
+    </string>
 
     <string name="tree_4_name">American hackberry</string>
-    <string name="tree_4_des">Replace Me</string>
+    <string name="tree_4_des">Celtis occidentalis, commonly known as the common hackberry, is a
+        large deciduous tree native to North America. It is also known as the nettletree,
+        sugarberry, beaverwood, northern hackberry, and American hackberry.
+        https://en.wikipedia.org/wiki/Celtis_occidentalis
+    </string>
 
     <string name="tree_5_name">Black walnut</string>
-    <string name="tree_5_des">Replace Me</string>
+    <string name="tree_5_des">Juglans nigra, the eastern American black walnut, is a species of
+        deciduous tree in the walnut family, Juglandaceae, native to North America.
+        https://en.wikipedia.org/wiki/Juglans_nigra
+    </string>
 
     <string name="tree_6_name">Bitternut hickory</string>
-    <string name="tree_6_des">Replace Me</string>
+    <string name="tree_6_des">Carya cordiformis, the bitternut hickory,[2] also called bitternut or
+        swamp hickory, is a large pecan hickory with commercial stands located mostly north of the
+        other pecan hickories. Bitternut hickory is cut and sold in mixture with the true hickories.
+        It is the shortest-lived of the hickories, living to about 200 years.
+        https://en.wikipedia.org/wiki/Carya_cordiformis
+    </string>
 
     <string name="tree_7_name">Shellbark hickory</string>
-    <string name="tree_7_des">Replace Me</string>
+    <string name="tree_7_des">Carya laciniosa, the shellbark hickory, in the Juglandaceae or walnut
+        family is also called shagbark hickory, bigleaf shagbark hickory, kingnut, big, bottom,
+        thick, or western shellbark, attesting to some of its characteristics. It is a slow-growing,
+        long-lived tree, hard to transplant because of its long taproot, and subject to insect
+        damage. The nuts, largest of all hickory nuts, are sweet and edible.
+        https://en.wikipedia.org/wiki/Carya_laciniosa
+    </string>
 
     <string name="tree_8_name">Shagbark hickory</string>
-    <string name="tree_8_des">Replace Me</string>
+    <string name="tree_8_des">Carya ovata, the shagbark hickory, is a common hickory in the Eastern
+        United States and southeast Canada. It is a large, deciduous tree, growing well over 100 ft
+        (30 m) tall, and can live more than 350 years.
+        https://en.wikipedia.org/wiki/Carya_ovata
+    </string>
 
     <string name="tree_9_name">American beech</string>
-    <string name="tree_9_des">Replace Me</string>
+    <string name="tree_9_des">Fagus grandifolia, the American beech or North American beech, is the
+        species of beech tree native to the eastern United States and extreme southeast Canada. The
+        genus name Fagus is Latin for "beech", and the specific epithet grandifolia comes from
+        grandis "large" and folium "leaf".
+        https://en.wikipedia.org/wiki/Fagus_grandifolia
+    </string>
 
     <string name="tree_10_name">White oak</string>
-    <string name="tree_10_des">Replace Me</string>
+    <string name="tree_10_des">Quercus alba, the white oak, is one of the preeminent hardwoods of
+        eastern and central North America. It is a long-lived oak, native to eastern and central
+        North America.
+        https://en.wikipedia.org/wiki/Quercus_alba
+    </string>
 
     <string name="tree_11_name">Bur oak</string>
-    <string name="tree_11_des">Replace Me</string>
+    <string name="tree_11_des">Quercus macrocarpa, the bur oak, sometimes spelled burr oak, is a
+        species of oak in the white oak section Quercus sect. Quercus, native to North America in
+        the eastern and central United States.
+        https://en.wikipedia.org/wiki/Quercus_macrocarpa
+    </string>
 
     <string name="tree_12_name">Swamp white oak</string>
-    <string name="tree_12_des">Replace Me</string>
+    <string name="tree_12_des">Quercus bicolor, the swamp white oak, is a North American species of
+        medium-sized trees in the beech family. It is a common element of Americas north central and
+        northeastern mixed forests. It can survive in a variety of habitats. It forms hybrids with
+        bur oak where they occur together in the wild.
+        https://en.wikipedia.org/wiki/Quercus_bicolor
+    </string>
 
     <string name="tree_13_name">Shingle oak</string>
-    <string name="tree_13_des">Replace Me</string>
+    <string name="tree_13_des">Quercus imbricaria, the shingle oak, is a deciduous tree in the red
+        oak group of oaks. It is native primarily to the Midwestern and Upper South regions of
+        North America.
+        https://en.wikipedia.org/wiki/Quercus_imbricaria
+    </string>
 
     <string name="tree_14_name">Black oak</string>
-    <string name="tree_14_des">Replace Me</string>
+    <string name="tree_14_des">Quercus velutina, the eastern black oak or more commonly known as
+        simply black oak, is a species of oak in the red oak (Quercus sect. Lobatae) group. It is
+        widespread in eastern and central North America.
+        https://en.wikipedia.org/wiki/Quercus_velutina
+    </string>
 
     <string name="tree_15_name">Red oak</string>
-    <string name="tree_15_des">Replace Me</string>
+    <string name="tree_15_des">Quercus rubra, the northern red oak, is an oak tree in the red oak
+        group (Quercus section Lobatae). It is a native of North America, in the eastern and central
+        United States.
+        https://en.wikipedia.org/wiki/Quercus_rubra
+    </string>
 
     <string name="tree_16_name">Pin oak</string>
-    <string name="tree_16_des">Replace Me</string>
+    <string name="tree_16_des">Quercus palustris, the pin oak[4] or swamp Spanish oak, is an oak in
+        the red oak section (Quercus sect. Lobatae). Pin oak is one of the most commonly used
+        landscaping oaks in its native range due to its ease of transplant, relatively fast growth,
+        and pollution tolerance.
+        https://en.wikipedia.org/wiki/Quercus_palustris
+    </string>
 
     <string name="tree_17_name">Eastern hophornbeam</string>
-    <string name="tree_17_des">Replace Me</string>
+    <string name="tree_17_des">Ostrya virginiana, the American hophornbeam, is a species of Ostrya
+        native to eastern North America.
+        https://en.wikipedia.org/wiki/Ostrya_virginiana
+    </string>
 
     <string name="tree_18_name">Ironwood</string>
-    <string name="tree_18_des">Replace Me</string>
+    <string name="tree_18_des">Carpinus caroliniana, the American hornbeam, is a small hardwood tree
+        in the genus Carpinus. American hornbeam is also known as blue-beech, and musclewood. It is
+        native to eastern North America.
+        https://en.wikipedia.org/wiki/Carpinus_caroliniana
+    </string>
 
     <string name="tree_19_name">Alder</string>
-    <string name="tree_19_des">Replace Me</string>
+    <string name="tree_19_des">Alder is the common name of a genus of flowering plants, Alnus,
+        belonging to the birch family Betulaceae.
+        https://en.wikipedia.org/wiki/Alder
+    </string>
 
     <string name="tree_20_name">American basswood</string>
-    <string name="tree_20_des">Replace Me</string>
+    <string name="tree_20_des">Tilia americana is a species of tree in the family Malvaceae, native
+        to eastern North America.
+        https://en.wikipedia.org/wiki/Tilia_americana
+    </string>
 
     <string name="tree_21_name">Cottonwood</string>
-    <string name="tree_21_des">Replace Me</string>
+    <string name="tree_21_des">opulus deltoides, the eastern cottonwood or necklace poplar, is a
+        cottonwood poplar native to North America, growing throughout the eastern, central, and
+        southwestern United States.
+        https://en.wikipedia.org/wiki/Populus_deltoides
+    </string>
 
     <string name="tree_22_name">Black willow</string>
-    <string name="tree_22_des">Replace Me</string>
+    <string name="tree_22_des">Salix nigra, the black willow, is a species of willow native to
+        eastern North America.
+        https://en.wikipedia.org/wiki/Salix_nigra
+    </string>
 
     <string name="tree_23_name">Wild black cherry</string>
-    <string name="tree_23_des">Replace Me</string>
+    <string name="tree_23_des">Prunus serotina, commonly called black cherry, wild black cherry,
+        rum cherry, or mountain black cherry, is a deciduous tree or shrub belonging to the
+        genus Prunus. The species is widespread and common in North America and South America.
+        https://en.wikipedia.org/wiki/Prunus_serotina
+    </string>
 
     <string name="tree_24_name">Hawthorn</string>
-    <string name="tree_24_des">Replace Me</string>
+    <string name="tree_24_des">Crataegus (/krəˈtiːɡəs/), commonly called hawthorn, quickthorn,
+        thornapple, May-tree, whitethorn, or hawberry, is a genus of several hundred
+        species of shrubs and trees in the family Rosaceae, native to temperate regions of the
+        Northern Hemisphere.
+        https://en.wikipedia.org/wiki/Crataegus
+    </string>
 
     <string name="tree_25_name">Honey locust</string>
-    <string name="tree_25_des">Replace Me</string>
+    <string name="tree_25_des">The honey locust (Gleditsia triacanthos), also known as the thorny
+        locust or thorny honeylocust, is a deciduous tree in the family Fabaceae, native to central
+        North America where it is mostly found in the moist soil of river valleys.
+        https://en.wikipedia.org/wiki/Honey_locust
+    </string>
 
     <string name="tree_26_name">Black locust</string>
-    <string name="tree_26_des">Replace Me</string>
+    <string name="tree_26_des">Robinia pseudoacacia, commonly known in its native territory as
+        black locust,[1] is a medium-sized hardwood deciduous tree, belonging to the tribe
+        Robinieae. It is endemic to a few small areas of the United States, but it has been widely
+        planted and naturalized elsewhere in temperate North America.
+        https://en.wikipedia.org/wiki/Robinia_pseudoacacia
+    </string>
 
     <string name="tree_27_name">Flowering dogwood</string>
-    <string name="tree_27_des">Replace Me</string>
+    <string name="tree_27_des">Cornus florida, the flowering dogwood, is a species of flowering tree
+        in the family Cornaceae native to eastern North America and northern Mexico.
+        https://en.wikipedia.org/wiki/Cornus_florida
+    </string>
 
     <string name="tree_28_name">Silky dogwood</string>
-    <string name="tree_28_des">Replace Me</string>
+    <string name="tree_28_des">Cornus amomum, the silky dogwood or kinnikinnik, is a species of
+        dogwood native to the eastern United States.
+        https://en.wikipedia.org/wiki/Cornus_amomum
+    </string>
 
     <string name="tree_29_name">Bladdernut</string>
-    <string name="tree_29_des">Replace Me</string>
+    <string name="tree_29_des">Staphylea, called bladdernuts, is a small genus of 10 or 11 species
+        of flowering plants in the family Staphyleaceae, native to temperate regions of the
+        Northern Hemisphere.
+        https://en.wikipedia.org/wiki/Staphylea
+    </string>
 
     <string name="tree_30_name">Ohio buckeye</string>
-    <string name="tree_30_des">Replace Me</string>
+    <string name="tree_30_des">The tree species Aesculus glabra is commonly known as Ohio buckeye,
+        American buckeye, or fetid buckeye. A. glabra is one of 13–19 species of Aesculus. It is
+        native primarily to the Midwestern and lower Great Plains regions of the United States.
+        https://en.wikipedia.org/wiki/Aesculus_glabra
+    </string>
 
     <string name="tree_31_name">Sugar maple</string>
-    <string name="tree_31_des">Replace Me</string>
+    <string name="tree_31_des">Acer saccharum, the sugar maple or rock maple, is a species of
+        flowering plant in the soapberry and lychee family Sapindaceae.
+        https://en.wikipedia.org/wiki/Acer_saccharum
+    </string>
 
     <string name="tree_32_name">Black maple</string>
-    <string name="tree_32_des">Replace Me</string>
+    <string name="tree_32_des">Acer nigrum (black maple) is a species of maple closely related to
+        A. saccharum (sugar maple), and treated by some authors as a subspecies of it, as
+        Acer saccharum subsp. nigrum.
+        https://en.wikipedia.org/wiki/Acer_nigrum
+    </string>
 
     <string name="tree_33_name">Red maple</string>
-    <string name="tree_33_des">Replace Me</string>
+    <string name="tree_33_des">Acer rubrum, the red maple, also known as swamp, water or soft maple,
+        is one of the most common and widespread deciduous trees of eastern and central North
+        America. The U.S. Forest service recognizes it as the most abundant native tree in eastern
+        North America.
+        https://en.wikipedia.org/wiki/Acer_rubrum
+    </string>
 
     <string name="tree_34_name">Silver maple</string>
-    <string name="tree_34_des">Replace Me</string>
+    <string name="tree_34_des">Acer saccharinum, commonly known as silver maple, creek maple,
+        silverleaf maple, soft maple, large maple, water maple, swamp maple, or
+        white maple, is a species of maple native to the eastern and central United States and
+        southeastern Canada. It is one of the most common trees in the United States.
+        https://en.wikipedia.org/wiki/Acer_saccharinum
+    </string>
 
     <string name="tree_35_name">Box elder</string>
-    <string name="tree_35_des">Replace Me</string>
+    <string name="tree_35_des">Acer negundo is a species of maple native to North America.
+        Box elder, boxelder maple, ash-leaved maple, and maple ash are among its common names in
+        the United States; in Canada it is commonly known as Manitoba maple and occasionally as
+        elf maple.
+        https://en.wikipedia.org/wiki/Acer_negundo
+    </string>
 
     <string name="tree_36_name">White ash</string>
-    <string name="tree_36_des">Replace Me</string>
+    <string name="tree_36_des">Fraxinus americana, the white ash or American ash, is a species of
+        ash tree native to eastern and central North America.
+        https://en.wikipedia.org/wiki/Fraxinus_americana
+    </string>
 
     <string name="tree_37_name">Green ash</string>
-    <string name="tree_37_des">Replace Me</string>
+    <string name="tree_37_des">Fraxinus pennsylvanica, the green ash or red ash, is a species of
+        ash native to eastern and central North America.
+        https://en.wikipedia.org/wiki/Fraxinus_pennsylvanica
+    </string>
 
     <string name="tree_38_name">Pumpkin ash</string>
-    <string name="tree_38_des">Replace Me</string>
+    <string name="tree_38_des">Fraxinus profunda, the pumpkin ash, is a species of Fraxinus (ash)
+        native to eastern North America, primarily in the United States, with a scattered
+        distribution on the Atlantic coastal plain and interior lowland river valleys.
+        https://en.wikipedia.org/wiki/Fraxinus_profunda
+    </string>
 
     <string name="tree_39_name">Black ash</string>
-    <string name="tree_39_des">Replace Me</string>
+    <string name="tree_39_des">Fraxinus nigra, the black ash, is a species of ash native to much of
+        eastern Canada and the northeastern United States.
+        https://en.wikipedia.org/wiki/Fraxinus_nigra
+    </string>
 
     <string name="tree_40_name">Buttonbush</string>
-    <string name="tree_40_des">Replace Me</string>
+    <string name="tree_40_des">Cephalanthus occidentalis is a species of flowering plant in the
+        coffee family, Rubiaceae, that is native to eastern and southern North America.
+        https://en.wikipedia.org/wiki/Cephalanthus_occidentalis
+    </string>
 
     <string name="tree_41_name">Arrowwood</string>
-    <string name="tree_41_des">Replace Me</string>
+    <string name="tree_41_des">Viburnum dentatum, southern arrowwood or arrowwood viburnum or
+        roughish arrowwood, is a small shrub, native to the Eastern United States and Canada from
+        Maine south to Northern Florida and Eastern Texas.
+        https://en.wikipedia.org/wiki/Viburnum_dentatum
+    </string>
 
     <string name="tree_42_name">Sweet viburnum</string>
-    <string name="tree_42_des">Replace Me</string>
+    <string name="tree_42_des">Viburnum odoratissimum, commonly known as sweet viburnum, is a shrub
+        or small tree in the family Adoxaceae. It is native to Asia, and commonly cultivated as a
+        garden ornamental elsewhere.
+        https://en.wikipedia.org/wiki/Viburnum_odoratissimum
+    </string>
 
 
 </resources>
