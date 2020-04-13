@@ -139,6 +139,7 @@ public class BirdsActivity extends AppCompatActivity {
         birdList.add(new OrganismClass(getString(R.string.bird_38_name)
                 , getString(R.string.bird_38_des), R.drawable.ic_android2));
 
+
         birdList.add(new OrganismClass(getString(R.string.bird_39_name)
                 , getString(R.string.bird_39_des), R.drawable.ic_android2));
 
