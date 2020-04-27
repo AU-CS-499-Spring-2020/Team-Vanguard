@@ -61,14 +61,17 @@ public class OrganismRecyclerAdapter  extends RecyclerView.Adapter<OrganismRecyc
 
         }
 
-        public void setData(String name, String email, int img){
+        public void setData(String name, String des, int img){
 
             //put one of these for each of the things that needs displayed
             this.name.setText(name);
-            this.description.setText(email);
+            this.description.setText(des);
             this.img.setImageResource(img);
 
         }
 
     }
+
+
+
 }
