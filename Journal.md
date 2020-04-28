@@ -26,4 +26,25 @@
 
 **3/17/2020** Added some of the data that Dr.Wilson provided for us. At this point we are basically just waiting on Dr.Saunders from the Bio Department to get back to us with the remainder of the data for the app or at least instructions on how to access it. 
 
+**3/18/2020 1:00pm-4:00pm** Added some bird and tree data into the application
+
 **3/19/2020 12:00pm-5:00pm** Made the actual main page to make it closer to its final form rather than the buttons it was before that were only there for testing purposes. Also restyled pretty much the whole app to make it look a little better as well as more Ashland Themed. Also added some other misc stuff as well as removeing some redundent files
+
+**3/24/2020 10:00am-12:00pm** Restyled some things and added the ability to put hyperlinks into some of the text boxes so that we can put links to wikipedia for all the species if people want more information
+
+**3/31/2020 7:00pm-9:00pm** Team meeting and made some small changes based on what we decided
+
+**4/2/2020 9:00am-12:00pm** Added all the animal data as well as made some changes to the data entry process to make it much faster and simpler
+
+**4/5/2020 1:00pm-4:00pm** Fixed an issue discovered with the data entry as well as entered in all the remaining tree data
+
+**4/14/2020 7:00pm-9:00pm** Added most of the images for the birds
+
+**4/20/2020 1:00pm-3:00pm** added the general information page in the app. It pretty much just has a couple paragraphs found on AU's website about the wetlands
+
+**4/27/2020 12:00pm-2:00pm** Fixed an issue with some of the images being to big and filling most of the screen. Added some automatic image scaling in order to fix this
+
+**4/28/2020 11:00am-12:00pm** Updated the journal with most of what has been done over the past month
+
+
+**We have a team group chat that we conduct most of our team communication through outside of having semi regular meetings, it's not really possible to measure the time spent on doing that so that is not included in the above list**
