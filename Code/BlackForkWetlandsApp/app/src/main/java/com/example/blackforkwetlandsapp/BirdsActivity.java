@@ -177,271 +177,271 @@ public class BirdsActivity extends AppCompatActivity {
                 , getString(R.string.bird_50_des), R.drawable.bird_50_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_51_name)
-                , getString(R.string.bird_51_des), R.drawable.ic_android2));
+                , getString(R.string.bird_51_des), R.drawable.bird_51_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_52_name)
-                , getString(R.string.bird_52_des), R.drawable.ic_android2));
+                , getString(R.string.bird_52_des), R.drawable.bird_52_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_53_name)
-                , getString(R.string.bird_53_des), R.drawable.ic_android2));
+                , getString(R.string.bird_53_des), R.drawable.bird_53_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_54_name)
-                , getString(R.string.bird_54_des), R.drawable.ic_android2));
+                , getString(R.string.bird_54_des), R.drawable.bird_54_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_55_name)
-                , getString(R.string.bird_55_des), R.drawable.ic_android2));
+                , getString(R.string.bird_55_des), R.drawable.bird_55_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_56_name)
-                , getString(R.string.bird_56_des), R.drawable.ic_android2));
+                , getString(R.string.bird_56_des), R.drawable.bird_56_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_57_name)
-                , getString(R.string.bird_57_des), R.drawable.ic_android2));
+                , getString(R.string.bird_57_des), R.drawable.bird_57_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_58_name)
-                , getString(R.string.bird_58_des), R.drawable.ic_android2));
+                , getString(R.string.bird_58_des), R.drawable.bird_58_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_59_name)
-                , getString(R.string.bird_59_des), R.drawable.ic_android2));
+                , getString(R.string.bird_59_des), R.drawable.bird_59_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_60_name)
-                , getString(R.string.bird_60_des), R.drawable.ic_android2));
+                , getString(R.string.bird_60_des), R.drawable.bird_60_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_61_name)
-                , getString(R.string.bird_61_des), R.drawable.ic_android2));
+                , getString(R.string.bird_61_des), R.drawable.bird_61_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_62_name)
-                , getString(R.string.bird_62_des), R.drawable.ic_android2));
+                , getString(R.string.bird_62_des), R.drawable.bird_62_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_63_name)
-                , getString(R.string.bird_63_des), R.drawable.ic_android2));
+                , getString(R.string.bird_63_des), R.drawable.bird_63_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_64_name)
-                , getString(R.string.bird_64_des), R.drawable.ic_android2));
+                , getString(R.string.bird_64_des), R.drawable.bird_64_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_65_name)
-                , getString(R.string.bird_65_des), R.drawable.ic_android2));
+                , getString(R.string.bird_65_des), R.drawable.bird_65_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_66_name)
-                , getString(R.string.bird_66_des), R.drawable.ic_android2));
+                , getString(R.string.bird_66_des), R.drawable.bird_66_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_67_name)
-                , getString(R.string.bird_67_des), R.drawable.ic_android2));
+                , getString(R.string.bird_67_des), R.drawable.bird_67_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_68_name)
-                , getString(R.string.bird_68_des), R.drawable.ic_android2));
+                , getString(R.string.bird_68_des), R.drawable.bird_68_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_69_name)
-                , getString(R.string.bird_69_des), R.drawable.ic_android2));
+                , getString(R.string.bird_69_des), R.drawable.bird_69_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_70_name)
-                , getString(R.string.bird_70_des), R.drawable.ic_android2));
+                , getString(R.string.bird_70_des), R.drawable.bird_70_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_71_name)
-                , getString(R.string.bird_71_des), R.drawable.ic_android2));
+                , getString(R.string.bird_71_des), R.drawable.bird_71_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_72_name)
-                , getString(R.string.bird_72_des), R.drawable.ic_android2));
+                , getString(R.string.bird_72_des), R.drawable.bird_72_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_73_name)
-                , getString(R.string.bird_73_des), R.drawable.ic_android2));
+                , getString(R.string.bird_73_des), R.drawable.bird_73_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_74_name)
-                , getString(R.string.bird_74_des), R.drawable.ic_android2));
+                , getString(R.string.bird_74_des), R.drawable.bird_74_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_75_name)
-                , getString(R.string.bird_75_des), R.drawable.ic_android2));
+                , getString(R.string.bird_75_des), R.drawable.bird_75_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_76_name)
-                , getString(R.string.bird_76_des), R.drawable.ic_android2));
+                , getString(R.string.bird_76_des), R.drawable.bird_76_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_77_name)
-                , getString(R.string.bird_77_des), R.drawable.ic_android2));
+                , getString(R.string.bird_77_des), R.drawable.bird_77_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_78_name)
-                , getString(R.string.bird_78_des), R.drawable.ic_android2));
+                , getString(R.string.bird_78_des), R.drawable.bird_78_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_79_name)
-                , getString(R.string.bird_79_des), R.drawable.ic_android2));
+                , getString(R.string.bird_79_des), R.drawable.bird_79_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_80_name)
-                , getString(R.string.bird_80_des), R.drawable.ic_android2));
+                , getString(R.string.bird_80_des), R.drawable.bird_80_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_81_name)
-                , getString(R.string.bird_81_des), R.drawable.ic_android2));
+                , getString(R.string.bird_81_des), R.drawable.bird_81_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_82_name)
-                , getString(R.string.bird_82_des), R.drawable.ic_android2));
+                , getString(R.string.bird_82_des), R.drawable.bird_82_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_83_name)
-                , getString(R.string.bird_83_des), R.drawable.ic_android2));
+                , getString(R.string.bird_83_des), R.drawable.bird_83_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_84_name)
-                , getString(R.string.bird_84_des), R.drawable.ic_android2));
+                , getString(R.string.bird_84_des), R.drawable.bird_84_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_85_name)
-                , getString(R.string.bird_85_des), R.drawable.ic_android2));
+                , getString(R.string.bird_85_des), R.drawable.bird_85_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_86_name)
-                , getString(R.string.bird_86_des), R.drawable.ic_android2));
+                , getString(R.string.bird_86_des), R.drawable.bird_86_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_87_name)
-                , getString(R.string.bird_87_des), R.drawable.ic_android2));
+                , getString(R.string.bird_87_des), R.drawable.bird_87_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_88_name)
-                , getString(R.string.bird_88_des), R.drawable.ic_android2));
+                , getString(R.string.bird_88_des), R.drawable.bird_88_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_89_name)
-                , getString(R.string.bird_89_des), R.drawable.ic_android2));
+                , getString(R.string.bird_89_des), R.drawable.bird_89_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_90_name)
-                , getString(R.string.bird_90_des), R.drawable.ic_android2));
+                , getString(R.string.bird_90_des), R.drawable.bird_90_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_91_name)
-                , getString(R.string.bird_91_des), R.drawable.ic_android2));
+                , getString(R.string.bird_91_des), R.drawable.bird_91_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_92_name)
-                , getString(R.string.bird_92_des), R.drawable.ic_android2));
+                , getString(R.string.bird_92_des), R.drawable.bird_92_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_93_name)
-                , getString(R.string.bird_93_des), R.drawable.ic_android2));
+                , getString(R.string.bird_93_des), R.drawable.bird_93_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_94_name)
-                , getString(R.string.bird_94_des), R.drawable.ic_android2));
+                , getString(R.string.bird_94_des), R.drawable.bird_94_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_95_name)
-                , getString(R.string.bird_95_des), R.drawable.ic_android2));
+                , getString(R.string.bird_95_des), R.drawable.bird_95_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_96_name)
-                , getString(R.string.bird_96_des), R.drawable.ic_android2));
+                , getString(R.string.bird_96_des), R.drawable.bird_96_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_97_name)
-                , getString(R.string.bird_97_des), R.drawable.ic_android2));
+                , getString(R.string.bird_97_des), R.drawable.bird_97_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_98_name)
-                , getString(R.string.bird_98_des), R.drawable.ic_android2));
+                , getString(R.string.bird_98_des), R.drawable.bird_98_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_99_name)
-                , getString(R.string.bird_99_des), R.drawable.ic_android2));
+                , getString(R.string.bird_99_des), R.drawable.bird_99_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_100_name)
-                , getString(R.string.bird_100_des), R.drawable.ic_android2));
+                , getString(R.string.bird_100_des), R.drawable.bird_100_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_101_name)
-                , getString(R.string.bird_101_des), R.drawable.ic_android2));
+                , getString(R.string.bird_101_des), R.drawable.bird_101_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_102_name)
-                , getString(R.string.bird_102_des), R.drawable.ic_android2));
+                , getString(R.string.bird_102_des), R.drawable.bird_102_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_103_name)
-                , getString(R.string.bird_103_des), R.drawable.ic_android2));
+                , getString(R.string.bird_103_des), R.drawable.bird_103_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_104_name)
-                , getString(R.string.bird_104_des), R.drawable.ic_android2));
+                , getString(R.string.bird_104_des), R.drawable.bird_104_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_105_name)
-                , getString(R.string.bird_105_des), R.drawable.ic_android2));
+                , getString(R.string.bird_105_des), R.drawable.bird_105_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_106_name)
-                , getString(R.string.bird_106_des), R.drawable.ic_android2));
+                , getString(R.string.bird_106_des), R.drawable.bird_106_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_107_name)
-                , getString(R.string.bird_107_des), R.drawable.ic_android2));
+                , getString(R.string.bird_107_des), R.drawable.bird_107_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_108_name)
-                , getString(R.string.bird_108_des), R.drawable.ic_android2));
+                , getString(R.string.bird_108_des), R.drawable.bird_108_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_109_name)
-                , getString(R.string.bird_109_des), R.drawable.ic_android2));
+                , getString(R.string.bird_109_des), R.drawable.bird_109_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_110_name)
-                , getString(R.string.bird_110_des), R.drawable.ic_android2));
+                , getString(R.string.bird_110_des), R.drawable.bird_110_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_111_name)
-                , getString(R.string.bird_111_des), R.drawable.ic_android2));
+                , getString(R.string.bird_111_des), R.drawable.bird_111_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_112_name)
-                , getString(R.string.bird_112_des), R.drawable.ic_android2));
+                , getString(R.string.bird_112_des), R.drawable.bird_112_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_113_name)
-                , getString(R.string.bird_113_des), R.drawable.ic_android2));
+                , getString(R.string.bird_113_des), R.drawable.bird_113_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_114_name)
-                , getString(R.string.bird_114_des), R.drawable.ic_android2));
+                , getString(R.string.bird_114_des), R.drawable.bird_114_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_115_name)
-                , getString(R.string.bird_115_des), R.drawable.ic_android2));
+                , getString(R.string.bird_115_des), R.drawable.bird_115_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_116_name)
-                , getString(R.string.bird_116_des), R.drawable.ic_android2));
+                , getString(R.string.bird_116_des), R.drawable.bird_116_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_117_name)
-                , getString(R.string.bird_117_des), R.drawable.ic_android2));
+                , getString(R.string.bird_117_des), R.drawable.bird_117_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_118_name)
-                , getString(R.string.bird_118_des), R.drawable.ic_android2));
+                , getString(R.string.bird_118_des), R.drawable.bird_118_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_119_name)
-                , getString(R.string.bird_119_des), R.drawable.ic_android2));
+                , getString(R.string.bird_119_des), R.drawable.bird_119_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_120_name)
-                , getString(R.string.bird_120_des), R.drawable.ic_android2));
+                , getString(R.string.bird_120_des), R.drawable.bird_120_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_121_name)
-                , getString(R.string.bird_121_des), R.drawable.ic_android2));
+                , getString(R.string.bird_121_des), R.drawable.bird_121_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_122_name)
-                , getString(R.string.bird_122_des), R.drawable.ic_android2));
+                , getString(R.string.bird_122_des), R.drawable.bird_122_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_123_name)
-                , getString(R.string.bird_123_des), R.drawable.ic_android2));
+                , getString(R.string.bird_123_des), R.drawable.bird_123_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_124_name)
-                , getString(R.string.bird_124_des), R.drawable.ic_android2));
+                , getString(R.string.bird_124_des), R.drawable.bird_124_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_125_name)
-                , getString(R.string.bird_125_des), R.drawable.ic_android2));
+                , getString(R.string.bird_125_des), R.drawable.bird_125_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_126_name)
-                , getString(R.string.bird_126_des), R.drawable.ic_android2));
+                , getString(R.string.bird_126_des), R.drawable.bird_126_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_127_name)
-                , getString(R.string.bird_127_des), R.drawable.ic_android2));
+                , getString(R.string.bird_127_des), R.drawable.bird_127_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_128_name)
-                , getString(R.string.bird_128_des), R.drawable.ic_android2));
+                , getString(R.string.bird_128_des), R.drawable.bird_128_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_129_name)
-                , getString(R.string.bird_129_des), R.drawable.ic_android2));
+                , getString(R.string.bird_129_des), R.drawable.bird_129_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_130_name)
-                , getString(R.string.bird_130_des), R.drawable.ic_android2));
+                , getString(R.string.bird_130_des), R.drawable.bird_130_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_131_name)
-                , getString(R.string.bird_131_des), R.drawable.ic_android2));
+                , getString(R.string.bird_131_des), R.drawable.bird_131_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_132_name)
-                , getString(R.string.bird_132_des), R.drawable.ic_android2));
+                , getString(R.string.bird_132_des), R.drawable.bird_132_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_133_name)
-                , getString(R.string.bird_133_des), R.drawable.ic_android2));
+                , getString(R.string.bird_133_des), R.drawable.bird_133_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_134_name)
-                , getString(R.string.bird_134_des), R.drawable.ic_android2));
+                , getString(R.string.bird_134_des), R.drawable.bird_134_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_135_name)
-                , getString(R.string.bird_135_des), R.drawable.ic_android2));
+                , getString(R.string.bird_135_des), R.drawable.bird_135_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_136_name)
-                , getString(R.string.bird_136_des), R.drawable.ic_android2));
+                , getString(R.string.bird_136_des), R.drawable.bird_136_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_137_name)
-                , getString(R.string.bird_137_des), R.drawable.ic_android2));
+                , getString(R.string.bird_137_des), R.drawable.bird_137_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_138_name)
-                , getString(R.string.bird_138_des), R.drawable.ic_android2));
+                , getString(R.string.bird_138_des), R.drawable.bird_138_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_139_name)
-                , getString(R.string.bird_139_des), R.drawable.ic_android2));
+                , getString(R.string.bird_139_des), R.drawable.bird_139_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_140_name)
                 , getString(R.string.bird_140_des), R.drawable.ic_android2));
