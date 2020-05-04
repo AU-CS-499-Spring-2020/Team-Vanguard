@@ -71,6 +71,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button infoButton = findViewById(R.id.infoButton);
+        infoButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, GenInfoActivity.class);
+                startActivity(intent);
+            }
+        });
         /*
         organismClassList = new ArrayList<>();
         recyclerView=findViewById(R.id.recyclerView);

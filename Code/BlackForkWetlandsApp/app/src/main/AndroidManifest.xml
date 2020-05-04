@@ -21,6 +21,7 @@
         <activity android:name=".PlantsActivity"></activity>
         <activity android:name=".TreesActivity"></activity>
         <activity android:name=".InsectsActivity"></activity>
+        <activity android:name=".GenInfoActivity"></activity>
 
     </application>
 

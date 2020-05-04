@@ -362,70 +362,136 @@
     <string name="bird_119_des">Replace Me</string>
 
     <string name="bird_120_name">Scarlet tanager</string>
-    <string name="bird_120_des">Replace Me</string>
+    <string name="bird_120_des">(Piranga olivacea) is a medium sized American songbird. It is classified
+   as a part of both the cardinal family, and the tanager family. It bears many similarities to cardinals,
+   but lacks the conical bill that cardinals need for seed and insect eating.
+   https://en.wikipedia.org/wiki/Scarlet_tanager</string>
 
     <string name="bird_121_name">Rose-breasted grosbeak</string>
-    <string name="bird_121_des">Replace Me</string>
+    <string name="bird_121_des">(Pheucticus ludovicianus) is a large bird in the cardinal family that
+   feeds mostly on seeds. These birds tend to live longer in captivity, since they often die in the
+   wild by collision with things like buildings or cars.
+   https://en.wikipedia.org/wiki/Rose-breasted_grosbeak</string>
 
     <string name="bird_122_name">Indigo bunting</string>
-    <string name="bird_122_des">Replace Me</string>
+    <string name="bird_122_des">(Passerina cyanea) is a small bird in the cardinal family. It feeds mostly
+   on seeds, and uses the stars to navigate when migrating. It has been observed interbreeding with
+   the closely related Lazuli bunting bird when they cross paths.
+   https://en.wikipedia.org/wiki/Indigo_bunting</string>
 
     <string name="bird_123_name">Northern cardinal</string>
-    <string name="bird_123_des">Replace Me</string>
+    <string name="bird_123_des">(Cardinalis cardinalis) is a bird of the Cardinalis genus. They are
+   the same as a common cardinal or cardinal. It has a distinctive crest on the head and a mask on the
+   face. Males are very vibrantly red, and females have a faded red color.
+   https://en.wikipedia.org/wiki/Northern_cardinal</string>
 
     <string name="bird_124_name">Eastern towhee</string>
-    <string name="bird_124_des">Replace Me</string>
+    <string name="bird_124_des">(Pipilo erythrophthalmus) is a large bird that was formerly accepted as
+   the same species as the Spotted Towhee. Before being identified as separate birds, they were both
+   known as the rufous-sided towhee. the name "towhee" was derived from their very distinctive song.
+   https://en.wikipedia.org/wiki/Eastern_towhee</string>
 
     <string name="bird_125_name">American tree sparrow</string>
-    <string name="bird_125_des">Replace Me</string>
+    <string name="bird_125_des">(Spizelloides arborea) is also known as a Winter sparrow. It is a medium
+   sized bird that prefers colder climates. It breeds in the northern limits of Alaska and Canada,
+   but will migrate south to the bottom of Canada and all of the U.S. for winter.
+   https://en.wikipedia.org/wiki/American_tree_sparrow</string>
 
     <string name="bird_126_name">Chipping sparrow</string>
-    <string name="bird_126_des">Replace Me</string>
+    <string name="bird_126_des">(Spizella passerina) is a type of American sparrow. It is widely spread
+   across Northern America and mostly tame. It molts twice a year, meaning that it takes on different
+   color patterns depending on if it is breeding season or not.
+   https://en.wikipedia.org/wiki/Chipping_sparrow</string>
 
     <string name="bird_127_name">Field sparrow</string>
-    <string name="bird_127_des">Replace Me</string>
+    <string name="bird_127_des">(Spizella pusilla) is a small bird in the family of Passerellidae. It
+   can be seen in eastern portions of the United States and Canada. The habitat of this bird tends
+   to be shrubs and grasslands. They tend to build nests on the ground, feeding mostly on seeds and insects.
+   https://en.wikipedia.org/wiki/Field_sparrow</string>
 
     <string name="bird_128_name">Song sparrow</string>
-    <string name="bird_128_des">Replace Me</string>
+    <string name="bird_128_des">(Melospiza melodia) is an extremely common, variable, and adaptive species
+   from North America. They tend to have brown bodies with white underbellies, covered in black streaking.
+   https://en.wikipedia.org/wiki/Song_sparrow</string>
 
     <string name="bird_129_name">Swamp sparrow</string>
-    <string name="bird_129_des">Replace Me</string>
+    <string name="bird_129_des">(Melospiza georgiana) is medium sized and closely related to the (more
+   well known) Song sparrow. They typically breed in marshes, where they build nests close to water level.
+   Their diet consists mainly of fruit, seeds, and arthropods.
+   https://en.wikipedia.org/wiki/Swamp_sparrow</string>
 
     <string name="bird_130_name">White-throated sparrow</string>
-    <string name="bird_130_des">Replace Me</string>
+    <string name="bird_130_des">(Zonotrichia albicollis) is a species of passerine. They have been observed
+   to have two distinct variations of coloring known as the tan striped, and the white striped forms.
+   They tend to breed in Canada and New England but migrate to Mexico and eastern America in the winter.
+   https://en.wikipedia.org/wiki/White-throated_sparrow</string>
 
     <string name="bird_131_name">White-crowned sparrow</string>
-    <string name="bird_131_des">Replace Me</string>
+    <string name="bird_131_des">(Zonotrichia leucophrys) is a species of passerine. It is native to
+   North America and can be observed in almost all parts of it. These birds are typically grey with
+   black and white striping on the head.
+   https://en.wikipedia.org/wiki/White-crowned_sparrow</string>
 
     <string name="bird_132_name">Dark-eyed junco</string>
-    <string name="bird_132_des">Replace Me</string>
+    <string name="bird_132_des">(Junco hyemalis) is seen in temperate North America, but will venture
+   as far as the Arctic in Summer months. These birds are known to have varying physical features.
+   However, they are typically grey with white bellies.
+   https://en.wikipedia.org/wiki/Dark-eyed_junco</string>
 
     <string name="bird_133_name">Orchard oriole</string>
-    <string name="bird_133_des">Replace Me</string>
+    <string name="bird_133_des">(Icterus spurius) is the smallest known icterid. It has been known to breed
+   from northeast America to eastern Mexico, and will spend winters as far south as South America.
+   https://en.wikipedia.org/wiki/Orchard_oriole</string>
 
     <string name="bird_134_name">Baltimore oriole</string>
-    <string name="bird_134_des">Replace Me</string>
+    <string name="bird_134_des">(Icterus galbula) is a small icterid blackbird which is common to eastern
+   regions of North America. The Baltimore oriole is know to interbreed with the western Bullocks oriole,
+   leading to both being classified as a single species; the Northern Oriole.
+   https://en.wikipedia.org/wiki/Baltimore_oriole</string>
 
     <string name="bird_135_name">Red-winged blackbird</string>
-    <string name="bird_135_des">Replace Me</string>
+    <string name="bird_135_des">(Agelaius phoeniceus) is a passerine bird, or perching bird, which can
+   be distinguished by the arrangement of their toes (3 forward 1 back). It has been argued to be one
+   of the most abundant living land birds in North America. Due to the abundance of this bird, it tops
+   the list as one of the most studied wild birds in the wild. Male and female red-winged blackbirds are
+   colored completely different.
+   https://en.wikipedia.org/wiki/Red-winged_blackbird</string>
 
     <string name="bird_136_name">Eastern meadowlark</string>
-    <string name="bird_136_des">Replace Me</string>
+    <string name="bird_136_des">(Sturnella magna) is a medium sized bird. It is seen primarily in the
+   eastern portions of North and South America. It is very similar in appearance to the western meadowlark,
+   and is often mistaken as such. The difference in song from the western to eastern meadowlark is typically
+   the easiest way to differentiate between the two.
+   https://en.wikipedia.org/wiki/Eastern_meadowlark</string>
 
     <string name="bird_137_name">Common grackle</string>
-    <string name="bird_137_des">Replace Me</string>
+    <string name="bird_137_des">(Quiscalus quiscula) is a large bird that can be found all around much
+   of north America. It is commonly seen in large numbers. Groups of common Grackles are referred to as
+   a "plague".
+   https://en.wikipedia.org/wiki/Common_grackle</string>
 
     <string name="bird_138_name">Brown-headed cowbird</string>
-    <string name="bird_138_des">Replace Me</string>
+    <string name="bird_138_des">(Molothrus ater) is a small bird that is native to subtropical North
+   America. It is brood parasitic, meaning it relies on others to help raise their young. In winter,
+   it may migrate south as far as Mexico.
+   https://en.wikipedia.org/wiki/Brown-headed_cowbird</string>
 
     <string name="bird_139_name">House sparrow</string>
-    <string name="bird_139_des">Replace Me</string>
+    <string name="bird_139_des">(Passer domesticus) is a part of the sparrow family. This bird is common
+   to most parts of the world. Being that its been introduced to such a high number of regions around
+   the globe, it is regarded as being THE most widely distributed wild bird. It can be found in a wide
+   variety of habitats and climates, including urban environments.
+   https://en.wikipedia.org/wiki/House_sparrow</string>
 
     <string name="bird_140_name">American goldfinch</string>
-    <string name="bird_140_des">Replace Me</string>
+    <string name="bird_140_des">(Spinus tristis) is a part of the finch family. It is known to be a
+   migrative bird. During the winter, it can be found anywhere from the US-Canada border to Mexico.
+   https://en.wikipedia.org/wiki/American_goldfinch</string>
 
     <string name="bird_141_name">House finch</string>
-    <string name="bird_141_des">Replace Me</string>
+    <string name="bird_141_des">(Haemorhous mexicanus) is a part of the finch family. It is originally
+   native to western North America, but has since been introduced in the east as well as Hawaii.
+   https://en.wikipedia.org/wiki/House_finch</string>
 
 
 </resources>
