@@ -22,45 +22,78 @@
             android:layout_height="275dp"
             app:srcCompat="@drawable/wetlands_sign" />
 
-        <Button
-            android:id="@+id/infoButton"
+        <androidx.gridlayout.widget.GridLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="General Information"
-            android:layout_marginTop="2.5dp"
-            android:layout_marginBottom="2.5dp"
-            android:background="@color/colorPrimary"
-            android:textColor="@android:color/white"/>
+            android:layout_height="match_parent"
+            app:alignmentMode="alignBounds"
+            app:columnCount="2"
+            app:rowCount="2"
+            >
 
-        <Button
-            android:id="@+id/animalButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Animals"
-            android:layout_marginTop="2.5dp"
-            android:layout_marginBottom="2.5dp"
-            android:background="@color/colorPrimary"
-            android:textColor="@android:color/white"/>
+            <Button
+                android:id="@+id/infoButton"
 
-        <Button
-            android:id="@+id/birdButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Birds"
-            android:layout_marginTop="2.5dp"
-            android:layout_marginBottom="2.5dp"
-            android:background="@color/colorPrimary"
-            android:textColor="@android:color/white"/>
 
-        <Button
-            android:id="@+id/treeButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Trees"
-            android:layout_marginTop="2.5dp"
-            android:layout_marginBottom="2.5dp"
-            android:background="@color/colorPrimary"
-            android:textColor="@android:color/white"/>
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"
+                app:layout_gravity="fill"
+                android:layout_margin="2.5dp"
+
+                android:background="@color/colorPrimary"
+                android:text="General Information"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/animalButton"
+
+
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"
+                app:layout_gravity="fill"
+                android:layout_margin="2.5dp"
+
+
+                android:background="@color/colorPrimary"
+                android:text="Animals"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/birdButton"
+
+
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"
+                app:layout_gravity="fill"
+                android:layout_margin="2.5dp"
+
+
+                android:background="@color/colorPrimary"
+                android:text="Birds"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/treeButton"
+
+
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_columnWeight="1"
+                app:layout_rowWeight="1"
+                app:layout_gravity="fill"
+                android:layout_margin="2.5dp"
+
+
+
+                android:background="@color/colorPrimary"
+                android:text="Trees"
+                android:textColor="@android:color/white" />
+        </androidx.gridlayout.widget.GridLayout>
 
     </LinearLayout>
 

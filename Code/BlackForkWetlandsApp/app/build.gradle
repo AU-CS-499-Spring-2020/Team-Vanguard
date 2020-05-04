@@ -30,4 +30,5 @@ dependencies {
     implementation 'androidx.cardview:cardview:1.0.0'
     implementation 'androidx.navigation:navigation-fragment:2.2.1'
     implementation 'androidx.navigation:navigation-ui:2.2.1'
+    implementation 'androidx.gridlayout:gridlayout:1.0.0'
 }
