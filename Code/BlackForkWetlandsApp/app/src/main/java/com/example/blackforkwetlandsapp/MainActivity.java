@@ -44,14 +44,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Button plantButton = findViewById(R.id.plantButton);
-        plantButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, PlantsActivity.class);
-                startActivity(intent);
-            }
-        });
 
         Button treeButton = findViewById(R.id.treeButton);
         treeButton.setOnClickListener(new View.OnClickListener() {
@@ -62,14 +54,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Button insectButton = findViewById(R.id.bugButton);
-        insectButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, InsectsActivity.class);
-                startActivity(intent);
-            }
-        });
 
         Button infoButton = findViewById(R.id.infoButton);
         infoButton.setOnClickListener(new View.OnClickListener() {
