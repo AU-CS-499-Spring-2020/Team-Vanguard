@@ -8,358 +8,748 @@
         https://en.wikipedia.org/wiki/Pied-billed_grebe</string>
 
     <string name="bird_2_name">Horned Grebe</string>
-    <string name="bird_2_des">Replace Me</string>
+    <string name="bird_2_des"> (Podiceps auritus) is a relatively small waterbird in the family Podicipedidae.
+        There are two known subspecies: P. a. auritus, which breeds in the Palearctic, and P. a. cornutus, which
+        breeds in North America. The Eurasian subspecies is distributed over most of northern Europe and the Palearctic,
+        breeding from Greenland to western China.
+https://en.wikipedia.org/wiki/Horned_grebe  </string>
 
     <string name="bird_3_name">Double-crested Cormorant</string>
-    <string name="bird_3_des">Replace Me</string>
+    <string name="bird_3_des">(Phalacrocorax auritus) is a member of the cormorant family of seabirds.
+        Its habitat is near rivers and lakes as well as in coastal areas, and is widely distributed across
+        North America, from the Aleutian Islands in Alaska down to Florida and Mexico. Measuring 70–90 cm (28–35 in)
+        in length, it is an all-black bird which gains a small double crest of black and white feathers in breeding season.
+https://en.wikipedia.org/wiki/Double-crested_cormorant  </string>
 
     <string name="bird_4_name">American Bittern</string>
-    <string name="bird_4_des">Replace Me</string>
+    <string name="bird_4_des">(Botaurus lentiginosus) is a species of wading bird in the heron family.
+        It has a Nearctic distribution, breeding in Canada and the northern and central parts of the United
+        States, and wintering in the U.S. Gulf Coast states. It is a well-camouflaged, solitary brown bird that
+        unobtrusively inhabits marshes and the coarse vegetation at the edge of lakes and ponds.
+https://en.wikipedia.org/wiki/American_bittern </string>
 
     <string name="bird_5_name">Least Bittern</string>
-    <string name="bird_5_des">Replace Me</string>
+    <string name="bird_5_des"> (Ixobrychus exilis) is a small heron, the smallest member of the family
+        Ardeidae found in the Americas. The least bittern is one of the smallest herons in the world, with
+        perhaps only the dwarf bittern and the black-backed bittern averaging smaller in length.
+https://en.wikipedia.org/wiki/American_bittern </string>
 
     <string name="bird_6_name">Great blue heron</string>
-    <string name="bird_6_des">Replace Me</string>
+    <string name="bird_6_des">(Ardea herodias) is a large wading bird in the heron family Ardeidae,
+        common near the shores of open water and in wetlands over most of North America and Central America
+        , as well as the Caribbean and the Galápagos Islands. It is a rare vagrant to coastal Spain, the Azores,
+        and areas of far southern Europe.
+https://en.wikipedia.org/wiki/Great_blue_heron </string>
 
     <string name="bird_7_name">Great egret</string>
-    <string name="bird_7_des">Replace Me</string>
+    <string name="bird_7_des">  (Ardea alba), also known as the common egret, large egret, great white egret
+        or great white heron is a large, widely distributed egret, with four subspecies found in Asia, Africa,
+        the Americas, and southern Europe. Distributed across most of the tropical and warmer temperate regions
+        of the world, it builds tree nests in colonies close to water.
+https://en.wikipedia.org/wiki/Great_egret</string>
 
-    <string name="bird_8_name">Snowy egret</string>
-    <string name="bird_8_des">Replace Me</string>
+    <string name="bird_8_name">Snowy Egret</string>
+    <string name="bird_8_des">(Egretta thula) is a small white heron. The genus name comes from the Provençal
+        French for the little egret aigrette, a diminutive of aigron, "heron". The species name thula is the Araucano
+        for the black-necked swan, applied to this species in error by Chilean naturalist Juan Ignacio Molina in 1782.
+https://en.wikipedia.org/wiki/Snowy_egret </string>
 
     <string name="bird_9_name">Green heron</string>
-    <string name="bird_9_des">Replace Me</string>
+    <string name="bird_9_des">(Butorides virescens) is a small heron of North and Central America. Butorides is
+        from Middle English butor "bittern" and Ancient Greek -oides, "resembling", and virescens is Latin for "greenish".
+https://en.wikipedia.org/wiki/Green_heron </string>
 
     <string name="bird_10_name">Trumpeter swan</string>
-    <string name="bird_10_des">Replace Me</string>
+    <string name="bird_10_des">(Cygnus buccinator) is a species of swan found in North America. The heaviest
+        living bird native to North America, it is also the largest extant species of waterfowl with a wingspan
+        that may exceed 10 ft (3.0 m).
+https://en.wikipedia.org/wiki/Trumpeter_swan </string>
 
     <string name="bird_11_name">Tundra swan</string>
-    <string name="bird_11_des">Replace Me</string>
+    <string name="bird_11_des"> (Cygnus columbianus) is a small Holarctic swan. The two taxa within it are usually
+        regarded as conspecific, but are also sometimes split into two species: Bewick\'s swan (Cygnus bewickii)
+        of the Palaearctic and the whistling swan (C. columbianus) proper of the Nearctic.
+https://en.wikipedia.org/wiki/Tundra_swan </string>
 
     <string name="bird_12_name">Greater white-fronted goose</string>
-    <string name="bird_12_des">Replace Me</string>
+    <string name="bird_12_des">(Anser albifrons) is a species of goose related to the smaller lesser
+        white-fronted goose (A. erythropus). It is named for the patch of white feathers bordering the base of
+        its bill, in fact albifrons comes from the Latin albus "white" and frons" forehead ".
+ https://en.wikipedia.org/wiki/Greater_white-fronted_goose </string>
 
     <string name="bird_13_name">Canada goose</string>
-    <string name="bird_13_des">Replace Me</string>
+    <string name="bird_13_des">(Branta canadensis) is a large wild goose species with a black head and neck,
+        white cheeks, white under its chin, and a brown body. Native to arctic and temperate regions of North
+        America, its migration occasionally reaches northern Europe. It has been introduced to the United Kingdom
+        , Ireland, New Zealand, Argentina, Chile, and the Falkland Islands.
+https://en.wikipedia.org/wiki/Canada_goose  </string>
 
     <string name="bird_14_name">Wood duck</string>
-    <string name="bird_14_des">Replace Me</string>
+    <string name="bird_14_des">(Aix sponsa) is a species of perching duck found in North America. It is
+        one of the most colorful North American waterfowl.
+https://en.wikipedia.org/wiki/Wood_duck </string>
 
     <string name="bird_15_name">Mallard</string>
-    <string name="bird_15_des">Replace Me</string>
+    <string name="bird_15_des">(Anas platyrhynchos) is a dabbling duck that breeds throughout the temperate
+        and subtropical Americas, Eurosiberia, and North Africa and has been introduced to New Zealand, Australia
+        , Peru, Brazil, Uruguay, Argentina, Chile, Colombia, the Falkland Islands, and South Africa. This duck belongs
+        to the subfamily Anatinae of the waterfowl family Anatidae.
+https://en.wikipedia.org/wiki/Mallard </string>
 
     <string name="bird_16_name">American black duck</string>
-    <string name="bird_16_des">Replace Me</string>
+    <string name="bird_16_des">(Anas rubripes) is a large dabbling duck in the family Anatidae. It was described
+        by William Brewster in 1902. It is the heaviest species in the genus Anas, weighing 720–1,640 g (1.59–3.62 lb)
+        on average and measuring 54–59 cm (21–23 in) in length with a 88–95 cm (35–37 in) wingspan.
+https://en.wikipedia.org/wiki/American_black_duck </string>
 
     <string name="bird_17_name">Gadwall</string>
-    <string name="bird_17_des">Replace Me</string>
+    <string name="bird_17_des"> (Mareca strepera) is a common and widespread dabbling duck in the family Anatidae.
+        The gadwall is 46–56 cm (18–22 in) long with a 78–90 cm (31–35 in) wingspan. The male is slightly larger than
+        the female, weighing on average 990 g (35 oz) against her 850 g (30 oz).
+https://en.wikipedia.org/wiki/Gadwall </string>
 
     <string name="bird_18_name">Northern shoveler</string>
-    <string name="bird_18_des">Replace Me</string>
+    <string name="bird_18_des"> (Spatula clypeata) is known simply in Britain as the shoveler, is a common and widespread
+        duck. It breeds in northern areas of Europe and across the Palearctic and across most of North America, wintering in
+        southern Europe, Africa, the Indian subcontinent, Southeast Asia, and Central, and northern South America. It is a rare
+        vagrant to Australia.
+ https://en.wikipedia.org/wiki/Northern_shoveler </string>
 
     <string name="bird_19_name">Blue-winged teal</string>
-    <string name="bird_19_des">Replace Me</string>
+    <string name="bird_19_des"> (Spatula discors) is a species of bird in the duck, goose, and swan family Anatidae.
+        One of the smaller members of the dabbling duckgroup, it occurs in North America, where it breeds from southern
+        Alaska to Nova Scotia, and south to northern Texas.
+https://en.wikipedia.org/wiki/Blue-winged_teal </string>
 
     <string name="bird_20_name">Green-winged teal</string>
-    <string name="bird_20_des">Replace Me</string>
+    <string name="bird_20_des">(Anas carolinensis or Anas crecca carolinensis) is a common and widespread duck that
+        breeds in the northern areas of North America except on the Aleutian Islands.  It is highly gregarious outside
+        of the breeding season and will form large flocks. In flight, the fast, twisting flocks resemble waders.
+https://en.wikipedia.org/wiki/Green-winged_teal </string>
 
     <string name="bird_21_name">American wigeon</string>
-    <string name="bird_21_des">Replace Me</string>
+    <string name="bird_21_des"> (Mareca americana) is also called a baldpate, is a species of dabbling
+        duck found in North America. Formerly assigned to Anas, this species is classified with the other
+        wigeons in the dabbling duck genus Mareca.The American wigeon is a medium-sized bird; it is larger
+        than a teal, but smaller than a pintail.
+https://en.wikipedia.org/wiki/American_wigeon  </string>
 
     <string name="bird_22_name">Northern pintail</string>
-    <string name="bird_22_des">Replace Me</string>
+    <string name="bird_22_des">(Anas acuta) is a duck with wide geographic distribution that breeds in
+        the northern areas of Europe and across the Palearctic and North America. It is migratory and winters s
+        outh of its breeding range to the equator. This is a large duck, and the male\'s long central
+        tail feathers give rise to the species\' English and scientific names.
+https://en.wikipedia.org/wiki/Northern_pintail </string>
 
     <string name="bird_23_name">Canvasback</string>
-    <string name="bird_23_des">Replace Me</string>
+    <string name="bird_23_des">(Aythya valisineria) is a species of diving duck, the largest found in
+        North America. It is the largest species in the genus Aythya, being similar in size to a mallard
+        but with a heavier and more compact build than it.
+https://en.wikipedia.org/wiki/Canvasback </string>
 
     <string name="bird_24_name">Redhead</string>
-    <string name="bird_24_des">Replace Me</string>
+    <string name="bird_24_des">(Aythya americana) is a medium-sized diving duck  is 37 cm (15 in) long
+        with an 84 cm (33 in) wingspan. It belongs to the genus Aythya, together with 11 other described
+        species. The redhead and the common pochard form a sister group which together is sister to the canvasback.
+https://en.wikipedia.org/wiki/Redhead_(bird) </string>
 
     <string name="bird_25_name">Ring-necked duck</string>
-    <string name="bird_25_des">Replace Me</string>
+    <string name="bird_25_des">(Aythya collaris) is a diving duck from North America commonly found in
+        freshwater ponds and lakes. Ring-necked ducks are small to medium-sized diving ducks. The adult
+        male is similar in color pattern to the Eurasian tufted duck, its relative. Males are a little
+        bit bigger than the female.
+https://en.wikipedia.org/wiki/Ring-necked_duck </string>
 
     <string name="bird_26_name">Lesser scaup</string>
-    <string name="bird_26_des">Replace Me</string>
+    <string name="bird_26_des">(Aythya affinis) is a small North American diving duck that migrates south
+        as far as Central America in winter. It is colloquially known as the little bluebill or broadbill
+        because of its distinctive blue bill. https://en.wikipedia.org/wiki/Lesser_scaup </string>
 
     <string name="bird_27_name">Bufflehead</string>
-    <string name="bird_27_des">Replace Me</string>
+    <string name="bird_27_des">(Bucephala albeola) is a small sea duck of the genus Bucephala, the goldeneyes.
+        The bufflehead ranges from 32–40 cm (13–16 in) long and weighs 270–550 g (9.5–19.4 oz), with the drakes
+        larger than the females. It rivals the green-winged teal as the smallest American duck.
+https://en.wikipedia.org/wiki/Bufflehead </string>
 
     <string name="bird_28_name">Hooded merganser</string>
-    <string name="bird_28_des">Replace Me</string>
+    <string name="bird_28_des">(Lophodytes cucullatus) is a species of small diving duck. It is the only
+        extant species in the genus Lophodytes. The bird is striking in appearance; both sexes have crests
+        that they can raise or lower, and the breeding plumage of the male is handsomely patterned and coloured.
+https://en.wikipedia.org/wiki/Hooded_merganser  </string>
 
     <string name="bird_29_name">Ruddy duck</string>
-    <string name="bird_29_des">Replace Me</string>
+    <string name="bird_29_des">(Oxyura jamaicensis) is a duck from North America and one of the stiff-tailed
+        ducks. The hooded merganser is a sexually dimorphic species.
+https://en.wikipedia.org/wiki/Ruddy_duck </string>
 
     <string name="bird_30_name">Turkey vulture</string>
-    <string name="bird_30_des">Replace Me</string>
+    <string name="bird_30_des"> (Cathartes aura) is also known in some North American regions as the turkey
+        buzzard. The turkey vulture is a scavenger and feeds almost exclusively on carrion. It finds its
+        food using its keen eyes and sense of smell, flying low enough to detect the gasses produced by the
+        beginnings of the process of decay in dead animals.
+https://en.wikipedia.org/wiki/Turkey_vulture  </string>
 
     <string name="bird_31_name">Osprey</string>
-    <string name="bird_31_des">Replace Me</string>
+    <string name="bird_31_des">(Pandion haliaetus) is a diurnal, fish-eating bird of prey with a cosmopolitan
+        range. It is a large raptor, reaching more than 60 cm (24 in) in length and 180 cm (71 in) across the
+        wings. It is brown on the upperparts and predominantly greyish on the head and underparts.
+https://en.wikipedia.org/wiki/Osprey </string>
 
     <string name="bird_32_name">Sharp-shinned hawk</string>
-    <string name="bird_32_des">Replace Me</string>
+    <string name="bird_32_des"> (Accipiter striatus) is a small hawk, with males being the smallest
+        hawks in the United States and Canada, but with the species averaging larger than some Neotropical
+        species, such as the tiny hawk.
+https://en.wikipedia.org/wiki/Sharp-shinned_hawk </string>
 
     <string name="bird_33_name">Cooper’s hawk</string>
-    <string name="bird_33_des">Replace Me</string>
+    <string name="bird_33_des">(Accipiter cooperii) is also known as the Cooper hawk, is a medium-sized
+        hawk native to the North American continent and found from Southern Canada to Northern Mexico. This
+        species is a member of the genus Accipiter, sometimes referred to as true hawks, which are famously
+        agile, relatively small hawks common to wooded habitats around the world and also the most diverse
+        of all diurnal raptor genera.
+https://en.wikipedia.org/wiki/Cooper%27s_hawk </string>
 
     <string name="bird_34_name">Red-shouldered hawk</string>
-    <string name="bird_34_des">Replace Me</string>
+    <string name="bird_34_des">(Buteo lineatus) is a medium-sized hawk. Its breeding range spans eastern
+        North America and along the coast of Californiaand northern to northeastern-central Mexico.
+        Red-shouldered hawks are permanent residents throughout most of their range, though northern
+        birds do migrate, mostly to central Mexico. The main conservation threat to the widespread species is deforestation.
+https://en.wikipedia.org/wiki/Red-shouldered_hawk </string>
 
     <string name="bird_35_name">Red-tailed hawk</string>
-    <string name="bird_35_des">Replace Me</string>
+    <string name="bird_35_des">(Buteo jamaicensis) is a bird of prey that breeds throughout most of
+        North America, from the interior of Alaska and northern Canada to as far south as Panama and
+        the West Indies. It is one of the most common members within the genus of Buteo in North America or worldwide.
+https://en.wikipedia.org/wiki/Red-tailed_hawk </string>
 
     <string name="bird_36_name">Rough-legged hawk</string>
-    <string name="bird_36_des">Replace Me</string>
+    <string name="bird_36_des">(Buteo lagopus), also called the rough-legged hawk, is a medium-large
+        bird of prey. It is found in Arctic and Subarctic regions of North America and the Palearctic
+        during the breeding season and migrates south for the winter. It was traditionally also known
+        as the rough-legged falcon in such works as John James Audubon\'s The Birds of America.
+https://en.wikipedia.org/wiki/Rough-legged_buzzard </string>
 
     <string name="bird_37_name">Bald eagle</string>
-    <string name="bird_37_des">Replace Me</string>
+    <string name="bird_37_des">(Haliaeetus leucocephalus) is a bird of prey found in North America. A
+        sea eagle, it has two known subspecies and forms a species pairwith the white-tailed eagle
+        (Haliaeetus albicilla). Its range includes most of Canada and Alaska, all of the contiguous
+        United States, and northern Mexico.
+https://en.wikipedia.org/wiki/Bald_eagle </string>
 
     <string name="bird_38_name">American kestrel</string>
-    <string name="bird_38_des">Replace Me</string>
+    <string name="bird_38_des">(Falco sparverius) is the smallest and most common falcon in North America.
+        It has a roughly two-to-one range in size over subspecies and sex, varying in size from about the
+        weight of a blue jay to a mourning dove.
+https://en.wikipedia.org/wiki/American_kestrel </string>
 
     <string name="bird_39_name">Peregrine falcon</string>
-    <string name="bird_39_des">Replace Me</string>
+    <string name="bird_39_des">(Falco peregrinus), also known as the peregrine, and historically as the
+        duck hawk in North America, is a widespread bird of prey (raptor) in the family Falconidae. A
+        large, crow-sized falcon, it has a blue-grey back, barred white underparts, and a black head.
+        The peregrine is renowned for its speed, reaching over 320 km/h (200 mph) during its characteristic
+        hunting stoop (high-speed dive).
+https://en.wikipedia.org/wiki/Peregrine_falcon </string>
 
     <string name="bird_40_name">Wild turkey</string>
-    <string name="bird_40_des">Replace Me</string>
+    <string name="bird_40_des">(Meleagris gallopavo) is an upland ground bird native to North America,
+        one of two extant species of turkey, and the heaviest member of the diverse Galliformes. It is
+        the same species as the domestic turkey, which was originally derived from a southern Mexican
+        subspecies of wild turkey (not the related ocellated turkey).
+https://en.wikipedia.org/wiki/Wild_turkey </string>
 
     <string name="bird_41_name">King rail</string>
-    <string name="bird_41_des">Replace Me</string>
+    <string name="bird_41_des">(Rallus elegans) is a waterbird, the largest North American rail. Distinct
+        features are a long bill with a slight downward curve, with adults being brown on the back and
+        rusty-brown on the face and breast with a dark brown cap.
+https://en.wikipedia.org/wiki/King_rail </string>
 
     <string name="bird_42_name">Virginia rail</string>
-    <string name="bird_42_des">Replace Me</string>
+    <string name="bird_42_des">(Rallus limicola) is a small waterbird, of the family Rallidae. These
+        birds remain fairly common despite continuing loss of habitat, but are secretive by nature and
+        more often heard than seen.
+https://en.wikipedia.org/wiki/Virginia_rail </string>
 
     <string name="bird_43_name">Sora</string>
-    <string name="bird_43_des">Replace Me</string>
+    <string name="bird_43_des">(Porzana carolina) is a small waterbird of the family Rallidae, sometimes
+        also referred to as the sora rail or sora crake. The genus name Porzanais derived from Venetian
+        terms for small rails, and Carolina refers to the Carolina Colony.
+https://en.wikipedia.org/wiki/Sora_(bird) </string>
 
     <string name="bird_44_name">American coot</string>
-    <string name="bird_44_des">Replace Me</string>
+    <string name="bird_44_des">(Fulica americana), also known as a mud hen or pouldeau, is a bird of
+        the family Rallidae. Though commonly mistaken for ducks, American coots are only distantly
+        related to ducks, belonging to a separate order. Unlike the webbed feet of ducks, coots have
+        broad, lobed scales on their lower legs and toes that fold back with each step in order to
+        facilitate walking on dry land.
+https://en.wikipedia.org/wiki/American_coot </string>
 
     <string name="bird_45_name">Sandhill crane</string>
-    <string name="bird_45_des">Replace Me</string>
+    <string name="bird_45_des">(Antigone canadensis) is a species of large crane of North America and
+        extreme northeastern Siberia. The common name of this bird refers to habitat like that at the
+        Platte River, on the edge of Nebraska\'s Sandhills on the American Plains.
+https://en.wikipedia.org/wiki/Sandhill_crane </string>
 
     <string name="bird_46_name">Killdeer</string>
-    <string name="bird_46_des">Replace Me</string>
+    <string name="bird_46_des">(Charadrius vociferus) is a large plover found in the Americas. It was
+        described and given its current scientific name in 1758 by Carl Linnaeusin the 10th edition of
+        his Systema Naturae. There are three subspecies. The killdeer\'s common name comes from its often-heard
+        call. Its upperparts are mostly brown with rufous fringes, the head has patches of white and black,
+        and there are two black breast bands.
+https://en.wikipedia.org/wiki/Killdeer </string>
 
     <string name="bird_47_name">Greater yellowlegs</string>
-    <string name="bird_47_des">Replace Me</string>
+    <string name="bird_47_des">(Tringa melanoleuca) is a large North American shorebird. The genus name
+        Tringa is the New Latin name given to the green sandpiper by Aldrovandus in 1599 based on Ancient
+        Greek trungas, a thrush-sized, white-rumped, tail-bobbing wading bird mentioned by Aristotle. The
+        specific melanoleuca is from Ancient Greek melas, "black", and leukos, "white".
+https://en.wikipedia.org/wiki/Greater_yellowlegs </string>
 
     <string name="bird_48_name">Lesser yellowlegs</string>
-    <string name="bird_48_des">Replace Me</string>
+    <string name="bird_48_des"> (Tringa flavipes) is a medium-sized shorebird. The genus name Tringa is
+        the New Latin name given to the green sandpiper by Aldrovandus in 1599 based on Ancient Greek trungas,
+        a thrush-sized, white-rumped, tail-bobbing wading bird mentioned by Aristotle. The specific flavipesis
+        from Latin flavus, "yellow", and pes, "foot".
+ https://en.wikipedia.org/wiki/Lesser_yellowlegs </string>
 
     <string name="bird_49_name">Solitary sandpiper</string>
-    <string name="bird_49_des">Replace Me</string>
+    <string name="bird_49_des"> (Tringa solitaria) is a small shorebird. This species measures 18–23 cm
+        (7.1–9.1 in) long, with a wingspan up to 50 cm (20 in) and a body mass of 31–65 g (1.1–2.3 oz).
+        It is a dumpy waderwith a dark green back, greyish head and breast and otherwise white underparts.
+https://en.wikipedia.org/wiki/Solitary_sandpiper </string>
 
     <string name="bird_50_name">Spotted sandpiper</string>
-    <string name="bird_50_des">Replace Me</string>
+    <string name="bird_50_des">(Actitis macularius) is a small shorebird. Adults have short yellowish legs and an
+        orange bill with a dark tip. The body is brown on top and white underneath with black spots. Non-breeding birds do
+not have the spotted underparts, and are very similar to the common sandpiper of Eurasia.
+https://en.wikipedia.org/wiki/Spotted_sandpiper</string>
 
     <string name="bird_51_name">Dunlin</string>
-    <string name="bird_51_des">Replace Me</string>
+    <string name="bird_51_des">(Calidris alpina) is a small wader. An adult dunlin in breeding plumage shows the
+        distinctive black belly which no other similar-sized wader possesses. The winter dunlin is basically grey above
+        and white below. Juveniles are brown above with two whitish "V" shapes on the back.
+https://en.wikipedia.org/wiki/Dunlin</string>
 
     <string name="bird_52_name">Least sandpiper</string>
-    <string name="bird_52_des">Replace Me</string>
+    <string name="bird_52_des">(Calidris minutilla) is the smallest known shorebird. They tend to breed in North
+America on tundra or in bogs. They nest on the ground near water. The female lays four eggs in a shallow scrape lined
+        with grass and moss. Both parents have been observed to incubate their eggs.
+https://en.wikipedia.org/wiki/Least_sandpiper</string>
 
     <string name="bird_53_name">Pectoral sandpiper</string>
-    <string name="bird_53_des">Replace Me</string>
+    <string name="bird_53_des">(Calidris melanotos) is a small, migratory wader. Pectoral sandpipers make their nest
+by scraping a whole in the ground and with a thick lining, is deep enough to protect its four eggs from the cool breezes
+        of its breeding grounds.
+https://en.wikipedia.org/wiki/Pectoral_sandpiper</string>
 
     <string name="bird_54_name">Wilson’s snipe</string>
-    <string name="bird_54_des">Replace Me</string>
+    <string name="bird_54_des">(Gallinago delicata) is a small, stocky shorebird. The name of this bird is meant  to
+        commemorate the American ornithologist Alexander Wilson. They breed in marshes, bogs, tundra and wet meadows in
+        Canada and the northern United States and on the Chukchi Peninsula, Russia.
+https://en.wikipedia.org/wiki/Wilson%27s_snipe</string>
 
     <string name="bird_55_name">American woodcock</string>
-    <string name="bird_55_des">Replace Me</string>
+    <string name="bird_55_des">(Scolopax minor) is a small chunky shorebird species found primarily in the eastern
+        half of North America. Woodcocks spend most of their time on the ground, partly due to the fact that their plumage
+Provides extremely good camouflage.
+https://en.wikipedia.org/wiki/American_woodcock</string>
 
     <string name="bird_56_name">Ring-billed gull</string>
-    <string name="bird_56_des">Replace Me</string>
+    <string name="bird_56_des">(Larus delawarensis) is a medium-sized gull. The ring-billed gulls\' breeding
+        habitat is near lakes, rivers, or the coast in Canada and the northern United States. They nest colonially
+        on the ground, often on islands. This bird tends to be faithful to its nesting site, if not its mate, from year to year.
+https://en.wikipedia.org/wiki/Ring-billed_gull</string>
 
     <string name="bird_57_name">Herring gull</string>
-    <string name="bird_57_des">Replace Me</string>
+    <string name="bird_57_des">(Larus smithsonianus or Larus argentatus smithsonianus) is a large gull
+        that breeds in North America. Adults are white with gray back and wings, black wingtips with white
+        spots, and pink legs. Immature birds are gray-brown and are darker and more uniform than European herring
+        gulls, with a darker tail.
+https://en.wikipedia.org/wiki/American_herring_gull</string>
 
     <string name="bird_58_name">Rock dove</string>
-    <string name="bird_58_des">Replace Me</string>
+    <string name="bird_58_des">(Columba livia) is a member of the dove family, Columbidae. In common use, it is
+Usually just referred to as a “pigeon”. Coloration varies between wild and domestic rock Doves. These birds are
+        extremely common and widespread across most of the world.
+https://en.wikipedia.org/wiki/Rock_dove</string>
 
     <string name="bird_59_name">Mourning dove</string>
-    <string name="bird_59_des">Replace Me</string>
+    <string name="bird_59_des">(Zenaida macroura) is a member of the dove family, Columbidae. It’s also referred to
+as the turtle dove. It is one of the most abundant and widespread of all North American birds. It is a gamebird, as
+more than 20 million are killed annually for sport or for meat.
+https://en.wikipedia.org/wiki/Mourning_dove</string>
 
     <string name="bird_60_name">Black-billed cuckoo</string>
-    <string name="bird_60_des">Replace Me</string>
+    <string name="bird_60_des">(Coccyzus erythropthalmus) is a New World species in the Cuculidae (cuckoo)
+        family. The scientific name is from Ancient Greek. The genus name kokkuzo, means to call like a
+        common cuckoo, and erythropthalmus is from eruthros, "red" and ophthalmos, "eye".
+https://en.wikipedia.org/wiki/Black-billed_cuckoo</string>
 
     <string name="bird_61_name">Yellow-billed cuckoo</string>
-    <string name="bird_61_des">Replace Me</string>
+    <string name="bird_61_des">(Coccyzus americanus) is a species of cuckoo. They are also referred to as a Storm
+crow, likely because they are known to sing on hot days, often before rain or thunder. Their range spans from North
+America to South America, and can sometimes be seen in western Europe.
+https://en.wikipedia.org/wiki/Yellow-billed_cuckoo</string>
 
     <string name="bird_62_name">Barred owl</string>
-    <string name="bird_62_des">Replace Me</string>
+    <string name="bird_62_des">(Strix varia) is a large species of owl. These owls are native to eastern North America,
+but have expanded their range all the way to the west coast, where they are considered an invasive species. Their
+diet consists mostly of small mammals, but will prey upon almost any living creature that is small enough.
+https://en.wikipedia.org/wiki/Barred_owl</string>
 
     <string name="bird_63_name">Common nighthawk</string>
-    <string name="bird_63_des">Replace Me</string>
+    <string name="bird_63_des">(Chordeiles minor) is a medium sized bird in the nightjar family. These birds are
+Nocturnal. However, their hunting process ends when dusk becomes night, and resumes again as night becomes
+dawn. They will rarely feed in complete darkness.
+https://en.wikipedia.org/wiki/Common_nighthawk</string>
 
     <string name="bird_64_name">Chimney swift</string>
-    <string name="bird_64_des">Replace Me</string>
+    <string name="bird_64_des">(Chaetura pelagica) is a bird that belongs to the swift family Apodidae. The Chimney
+            Swift is named after its soot-grey color, and has been placed in the vulnerable category, meaning it is currently a threatened species.
+            https://en.wikipedia.org/wiki/Chimney_swift</string>
 
     <string name="bird_65_name">Ruby-throated hummingbird</string>
-    <string name="bird_65_des">Replace Me</string>
+    <string name="bird_65_des">(Archilochus colubris) is a hummingbird that spends its time in eastern North America
+during the summer to breed. The rest of the year, it is a resident of Central America, Mexico, and parts of Florida. It
+is the most common hummingbird on the east of the Mississippi.
+https://en.wikipedia.org/wiki/Ruby-throated_hummingbird</string>
 
     <string name="bird_66_name">Belted kingfisher</string>
-    <string name="bird_66_des">Replace Me</string>
+    <string name="bird_66_des">(Megaceryle alcyon) is a large, conspicuous water kingfisher. This bird is the only
+member of its group that can be found in North America. Adult males are white and blue, while females are white and
+grey.
+https://en.wikipedia.org/wiki/Belted_kingfisher</string>
 
     <string name="bird_67_name">Red-headed woodpecker</string>
-    <string name="bird_67_des">Replace Me</string>
+    <string name="bird_67_des">(Melanerpes erythrocephalus) is a small to medium sized woodpecker. It is native
+to temperate North America. Up until 2018, this bird was considered to be near threatened, but has recently moved
+back to the category of least concern, after habitat management stabilized their numbers.
+ https://en.wikipedia.org/wiki/Red-headed_woodpecker</string>
 
     <string name="bird_68_name">Red-bellied woodpecker</string>
-    <string name="bird_68_des">Replace Me</string>
+    <string name="bird_68_des">(Melanerpes carolinus) is a medium sized woodpecker. It belongs to the
+        family Picidae. Although its name would indicate that it has a red belly, it does not. Instead,
+        the Red-bellied woodpecker
+is white and black with a red marking covering most of the head.
+https://en.wikipedia.org/wiki/Red-bellied_woodpecker</string>
 
     <string name="bird_69_name">Downy woodpecker</string>
-    <string name="bird_69_des">Replace Me</string>
+    <string name="bird_69_des">(Dryobates pubescens) is the smallest species of woodpecker in North America.
+        They like to nest in dead trees or limbs, which are excavated by the nesting pair.
+https://en.wikipedia.org/wiki/Downy_woodpecker</string>
 
     <string name="bird_70_name">Hairy woodpecker</string>
-    <string name="bird_70_des">Replace Me</string>
+    <string name="bird_70_des">(Leuconotopicus villosus) is a medium sized woodpecker. They are colored
+mostly black and white, and adults tend to have red patches on their head. They are permanent residents and only
+migrate in extreme situations.
+https://en.wikipedia.org/wiki/Hairy_woodpecker</string>
 
     <string name="bird_71_name">Northern flicker</string>
-    <string name="bird_71_des">Replace Me</string>
+    <string name="bird_71_des">(Colaptes auratus) is a medium sized bird in the woodpecker family. It
+        is native to parts of North America, Central America, Cuba, and the Cayman Islands. It is one
+        of the only woodpeckers that have
+        been observed to migrate.
+https://en.wikipedia.org/wiki/Northern_flicker</string>
 
     <string name="bird_72_name">Pileated woodpecker</string>
-    <string name="bird_72_des">Replace Me</string>
+    <string name="bird_72_des">(Dryocopus pileatus) is a woodpecker that is native to North America. It is the second
+        largest woodpecker on the continent. It gets the name “pileated” from its prominent, red-crested head, which comes
+        from the word pileatus meaning "capped" in Latin.
+        https://en.wikipedia.org/wiki/Pileated_woodpecker</string>
 
     <string name="bird_73_name">Olive-sided flycatcher</string>
-    <string name="bird_73_des">Replace Me</string>
+    <string name="bird_73_des">(Contopus cooperi) is a medium sized passerine bird of the tyrant flycatcher
+        family. This bird has a very peculiar flight pattern, where it likes to fall sharply after climbing
+        in altitude. These birds are labeled as near threatened, likely due to loss of habitat.
+        https://en.wikipedia.org/wiki/Olive-sided_flycatcher</string>
 
     <string name="bird_74_name">Eastern wood-pewee</string>
-    <string name="bird_74_des">Replace Me</string>
+    <string name="bird_74_des">(Contopus virens) is a small bird of the tyrant flycatcher family. It is native to North
+America. However, it will migrate to Central America and the Andes region of South America during winter. Their
+diet consists mainly of insects caught mid-flight.
+https://en.wikipedia.org/wiki/Eastern_wood_pewee</string>
 
     <string name="bird_75_name">Yellow-bellied flycatcher</string>
-    <string name="bird_75_des">Replace Me</string>
+    <string name="bird_75_des">(Empidonax flaviventris) is a small bird of the tyrant flycatcher family. They like to
+breed in wet northern woods, particularly in spruce bogs. Their nests are typically formed in sphagnum moss near or
+at ground level.
+https://en.wikipedia.org/wiki/Yellow-bellied_flycatcher</string>
 
     <string name="bird_76_name">Acadian flycatcher</string>
-    <string name="bird_76_des">Replace Me</string>
+    <string name="bird_76_des">(Empidonax virescens) is a small bird of the tyrant flycatcher family. They like to
+breed in deciduous forests near water. During winter, these birds will migrate to eastern Mexico, the Caribbean,
+and northwest South America.
+https://en.wikipedia.org/wiki/Acadian_flycatcher </string>
 
     <string name="bird_77_name">Willow flycatcher</string>
-    <string name="bird_77_des">Replace Me</string>
+    <string name="bird_77_des">(Empidonax traillii) is a small, neotropical bird of the tyrant flycatcher family. They
+are migratory birds, and span from the west coast to the east coast of the United States, avoiding only the southeast
+corner of the country.  There are four subspecies, three of which only breed in California.
+https://en.wikipedia.org/wiki/Willow_flycatcher</string>
 
     <string name="bird_78_name">Eastern phoebe</string>
-    <string name="bird_78_des">Replace Me</string>
+    <string name="bird_78_des">(Sayornis phoebe) is a small passerine bird. These bird are migratory, and can be
+observed in the eastern portions of Central America, the U.S., and central areas of Canada. Some Eastern phoebes
+have been seen in western Europe, but not very often.
+https://en.wikipedia.org/wiki/Eastern_phoebe</string>
 
     <string name="bird_79_name">Great crested flycatcher</string>
-    <string name="bird_79_des">Replace Me</string>
+    <string name="bird_79_des">(Myiarchus crinitus) is a large bird of the tyrant flycatcher family. These birds are
+typically found in the treetops, and are rarely ever seen on the ground. Their song is called the dawn song, because
+they typically sing at this time, searching for a mate.
+https://en.wikipedia.org/wiki/Great_crested_flycatcher </string>
 
     <string name="bird_80_name">Eastern kingbird</string>
-    <string name="bird_80_des">Replace Me</string>
+    <string name="bird_80_des">(Tyrannus tyrannus) is a large tyrant flycatcher. It is native to North America. Some
+Eastern kingbirds have been observed leaving their nests out in the open, while others have a tendency to
+thoroughly hide their nest location.
+https://en.wikipedia.org/wiki/Eastern_kingbird </string>
+
 
     <string name="bird_81_name">White-eyed vireo</string>
-    <string name="bird_81_des">Replace Me</string>
+    <string name="bird_81_des">(Vireo griseus) is a small songbird. These birds are known to eat insects, including
+caterpillars, during breeding months. At other points in the year, they can be seen eating berries instead. They
+tend to reside in eastern regions of the U.S., but will spend time farther south in places like eastern Mexico and  Central America.
+https://en.wikipedia.org/wiki/White-eyed_vireo </string>
+
 
     <string name="bird_82_name">Yellow-throated vireo</string>
-    <string name="bird_82_des">Replace Me</string>
+    <string name="bird_82_des">(Vireo flavifrons) is a small American songbird. They are migratory, traveling as far
+        south as the northernmost region of South America, and spending other parts of the year in the eastern region of
+The U.S. Some of these birds have been observed in western Europe, but this is very rare.
+https://en.wikipedia.org/wiki/Yellow-throated_vireo </string>
 
     <string name="bird_83_name">Warbling vireo</string>
-    <string name="bird_83_des">Replace Me</string>
+    <string name="bird_83_des">(Vireo gilvus) is a small songbird. It’s song is noted to be cheerful, with slight
+differences between western and eastern residing vireos. Some officials consider these two, the western and
+eastern vireos, as two seperate species.
+https://en.wikipedia.org/wiki/Warbling_vireo</string>
 
     <string name="bird_84_name">Red-eyed vireo</string>
-    <string name="bird_84_des">Replace Me</string>
+    <string name="bird_84_des">(Vireo olivaceus) is a small American songbird. It bears a strong resemblance to
+a warbler, but is not closely related however. They are colored olive-green and white, and are named after their
+Distinctive red iris.
+https://en.wikipedia.org/wiki/Red-eyed_vireo</string>
 
     <string name="bird_85_name">Blue jay</string>
-    <string name="bird_85_des">Replace Me</string>
+    <string name="bird_85_des">(Cyanocitta cristata) is a large passerine bird of the family Corvidae. It is native to
+North America, and resides mainly in the central and eastern portions of the United States. It will breed in both
+deciduous and coniferous forests, and has been commonly observed in residential areas.
+https://en.wikipedia.org/wiki/Blue_jay</string>
 
     <string name="bird_86_name">American crow</string>
-    <string name="bird_86_des">Replace Me</string>
+    <string name="bird_86_des">(Corvus brachyrhynchos) is a large passerine bird of the family Corvidae. American
+crows are very common and extremely widespread. Due to their susceptibility to the West Nile virus, they have been
+        a useful bioindicator for humans to track the spread of the virus. Contrary to some beliefs, transmission of
+        the virus
+directly from crow to human is impossible.
+https://en.wikipedia.org/wiki/American_crow</string>
 
     <string name="bird_87_name">Barn swallow</string>
-    <string name="bird_87_des">Replace Me</string>
+    <string name="bird_87_des">(Hirundo rustica) is the most widespread species of swallow known to man, and is
+also a passerine bird. It is known for its blue coloration, and forked tail. There are six subspecies of the Barn swallow,
+four of which are recorded as being strongly migratory. These birds are closely associated with humans, which
+humans benefit from as well, due to their insect eating habits.
+https://en.wikipedia.org/wiki/Barn_swallow</string>
 
     <string name="bird_88_name">Tree swallow</string>
-    <string name="bird_88_des">Replace Me</string>
+    <string name="bird_88_des">(Tachycineta bicolor) is a bird in the family Hirundinidae. They are vibrant blue in
+color, and females will typically be a little bit duller than males. The Tree swallow is a migratory bird, and will span
+From Alaska, all the way to Mexico in the span of its life.
+https://en.wikipedia.org/wiki/Tree_swallow </string>
 
     <string name="bird_89_name">Purple martin</string>
-    <string name="bird_89_des">Replace Me</string>
+    <string name="bird_89_des">(Progne subis) is the largest swallow in North America. Despite their name, they are not
+        actually purple. However, they have an iridescent sheen that can cause them to appear in many different
+colors. They are known for their speed and agility, and are regarded as very good flyers.
+https://en.wikipedia.org/wiki/Purple_martin</string>
 
     <string name="bird_90_name">Northern rough-winged swallow</string>
-    <string name="bird_90_des">Replace Me</string>
+    <string name="bird_90_des">(Stelgidopteryx serripennis) is a small swallow. It is a migratory bird that is
+native to the U.S. and central america. These birds like to nest in the burrows of soil banks, but sometimes in
+        caves or trees, and other times in human made formations like gutters and tubes.
+</string>
 
     <string name="bird_91_name">Bank swallow</string>
-    <string name="bird_91_des">Replace Me</string>
+    <string name="bird_91_des">(Riparia riparia) is a passerine bird in the swallow family. They are migratory, and
+have an extremely wide range of habitats that span across most of the world. These birds usually nest directly
+Into the ground, preferring a very specific kind of ground (known as loess) to burrow in.
+https://en.wikipedia.org/wiki/Sand_martin</string>
 
     <string name="bird_92_name">Cliff swallow</string>
-    <string name="bird_92_des">Replace Me</string>
+    <string name="bird_92_des">(Petrochelidon pyrrhonota) is a passerine bird in the family Hirundinidae. These
+birds are extremely social, and can be found nesting in colonies of 2,000 nests or more. They like to build their
+nests close together, using vocalizations to warn others of danger and to communicate food availability.
+https://en.wikipedia.org/wiki/American_cliff_swallow</string>
 
     <string name="bird_93_name">Carolina chickadee</string>
-    <string name="bird_93_des">Replace Me</string>
+    <string name="bird_93_des">(Poecile carolinensis) is a small passerine that belongs in the tit family Paridae.
+During fall and winter migration, these birds tend to flock together, including many other kinds of species in the
+flocks, such as titmice, nuthatches, and warblers. Other birds love chickadees because they call out when they
+find good sources of food.
+https://en.wikipedia.org/wiki/Carolina_chickadee</string>
 
     <string name="bird_94_name">Black-capped chickadee</string>
-    <string name="bird_94_des">Replace Me</string>
+    <string name="bird_94_des">(Poecile atricapillus) is a small songbird. It is a passerine that belongs in the
+tit family Paridae. These birds have a tendency to live in deciduous and mixed forests, spending their time on
+tree branches foraging for food. They are also known to be non-migratory.
+https://en.wikipedia.org/wiki/Black-capped_chickadee</string>
 
     <string name="bird_95_name">Brown creeper</string>
-    <string name="bird_95_des">Replace Me</string>
+    <string name="bird_95_des">(Certhia americana) is a small songbird, and happens to be the only North
+American bird that belongs in the treecreeper family Certhiidae. They tend to breed in Coniferous forests
+in portions of Alaska and Canada, as well as the western and northeastern regions of the U.S..
+https://en.wikipedia.org/wiki/Brown_creeper</string>
 
     <string name="bird_96_name">Tufted titmouse</string>
-    <string name="bird_96_des">Replace Me</string>
+    <string name="bird_96_des">(Baeolophus bicolor) is a small songbird that is a part of the tit and chickadee
+Family. This bird is known to have a song that resembles a whistle, and can vary in 20 different observed ways.
+The Tufted titmouse is non-migratory, and native to Ohio as well as Mississippi.
+ https://en.wikipedia.org/wiki/Tufted_titmouse</string>
 
     <string name="bird_97_name">White-breasted nuthatch</string>
-    <string name="bird_97_des">Replace Me</string>
+    <string name="bird_97_des">(Sitta carolinensis) is a small songbird that belongs in the nuthatch family.
+These birds are commonly seen in temperate portions of the United States. During winter months, they
+tend to feed on seeds. But during other times of the year, will forage for insects on branches and trunks.
+https://en.wikipedia.org/wiki/White-breasted_nuthatch</string>
 
     <string name="bird_98_name">Sedge wren</string>
-    <string name="bird_98_des">Replace Me</string>
+    <string name="bird_98_des">(Cistothorus stellaris) is a small passerine bird that belongs in the family
+ Troglodytidae. These birds are often found in tall wetlands and meadows, because they like to nest in
+tall grasses to feed on insects. Sedge wrens have been observed to improvise their songs rather than
+learn to sing from other birds.
+https://en.wikipedia.org/wiki/Sedge_wren</string>
 
     <string name="bird_99_name">Marsh wren</string>
-    <string name="bird_99_des">Replace Me</string>
+    <string name="bird_99_des">(Cistothorus palustris) is a small songbird that belongs in the wren family.
+It is sometimes called the long-billed marsh wren to distinguish it from the shorter billed sedge wren. These
+birds will typically forage near bodies of water, and will sometimes catch insects out of the air.
+https://en.wikipedia.org/wiki/Marsh_wren</string>
 
     <string name="bird_100_name">Carolina wren</string>
-    <string name="bird_100_des">Replace Me</string>
+    <string name="bird_100_des">(Thryothorus ludovicianus) Is a common species of wren that is located in
+the eastern half of the United States, including some of south Canada and north Mexico as well. They prefer
+to live in dense forests and suburban areas. This form of wren is the state bird of South Carolina.
+https://en.wikipedia.org/wiki/Carolina_wren</string>
 
     <string name="bird_101_name">House wren</string>
-    <string name="bird_101_des">Replace Me</string>
+    <string name="bird_101_des">(Troglodytes aedon) is an extremely small songbird, and a part of the wren
+   family. They are the most widely distributed bird in the Americas. Their diet consists of butterfly
+   larvae, spiders, snails, and other similar insects.
+   https://en.wikipedia.org/wiki/House_wren</string>
 
     <string name="bird_102_name">Golden-crowned kinglet</string>
-    <string name="bird_102_des">Replace Me</string>
+    <string name="bird_102_des">(Regulus satrapa) is an extremely small songbird. It is in the family
+   Regulidae, and lives in most of Northern America. Golden-crowned kinglets have been noted for their
+   lack of fear for humans. They like to forage in trees and shrubs, where they eats insects, insect eggs,
+   and spiders.
+   https://en.wikipedia.org/wiki/Golden-crowned_kinglet</string>
 
     <string name="bird_103_name">Blue-gray gnatcatcher</string>
-    <string name="bird_103_des">Replace Me</string>
+    <string name="bird_103_des">(Polioptila caerulea) is an extremely small songbird. While both sexes
+   of these birds have differing color patterns, males and females both have a distinctive white ring
+   that goes around each eye. They forage in trees and shrubs, eating things like insects, insect eggs,
+   or even spiders.
+   https://en.wikipedia.org/wiki/Blue-gray_gnatcatcher</string>
 
     <string name="bird_104_name">Eastern bluebird</string>
-    <string name="bird_104_des">Replace Me</string>
+    <string name="bird_104_des">(Sialia sialis) is a small thrush. These birds tend to live in open woodlands
+   farmlands, or orchards. They are very social, oftentimes flying in flocks of one-hundred or more.
+   Their diet consists of insects, fruits, and berries. However, they favor grasshoppers, crickets, katydids,
+   and beetles among other prey.
+   https://en.wikipedia.org/wiki/Eastern_bluebird</string>
 
     <string name="bird_105_name">Veery</string>
-    <string name="bird_105_des">Replace Me</string>
+    <string name="bird_105_des">(Catharus fuscescens) is a small member of the North American thrush
+   species. During breeding season, they mainly eat insects. However, during summer and fall, their diet
+   changes. At which point, they prefer fruits and berries.
+   https://en.wikipedia.org/wiki/Veery</string>
 
     <string name="bird_106_name">Wood thrush</string>
-    <string name="bird_106_des">Replace Me</string>
+    <string name="bird_106_des">(Hylocichla mustelina) is a North American passerine bird. The song
+   sung by male Wood thrushes is highly regarded as the most beautiful in North America. Also, they
+   tend to be territorial, and will defend large areas around its nest.
+   https://en.wikipedia.org/wiki/Wood_thrush</string>
 
     <string name="bird_107_name">American robin</string>
-    <string name="bird_107_des">Replace Me</string>
+    <string name="bird_107_des">(Turdus migratorius) is a migratory Songbird. Its named after its similarly
+   colored counterpart, the European robin, although the two are not closely related. They have been
+   known to breed very early in the year, and are typically the earliest bird to sing at dawn.
+   https://en.wikipedia.org/wiki/American_robin</string>
 
     <string name="bird_108_name">Gray catbird</string>
-    <string name="bird_108_des">Replace Me</string>
+    <string name="bird_108_des">(Dumetella carolinensis) is a member of the family Mimidae. Its a North
+   American and Central American perching bird, which was named for its cat-like song. They have been
+   observed to interact with humans the most during winter months.
+   https://en.wikipedia.org/wiki/Gray_catbird</string>
 
     <string name="bird_109_name">Northern mockingbird</string>
-    <string name="bird_109_des">Replace Me</string>
+    <string name="bird_109_des">(Mimus polyglottos) is the only mockingbird that can be commonly found
+   in North America. These birds like to stay put, but will migrate south if weather becomes too harsh
+   during winter months.
+   https://en.wikipedia.org/wiki/Northern_mockingbird</string>
 
     <string name="bird_110_name">Brown thrasher</string>
-    <string name="bird_110_des">Replace Me</string>
+    <string name="bird_110_des">(Toxostoma rufum) is a member of the family Mimidae. It is the only thrasher
+   that is known to live primarily east of central Texas. They are known to sing over 1000 song, which
+   is the largest song repertoire of any kind of bird.
+   https://en.wikipedia.org/wiki/Brown_thrasher</string>
 
     <string name="bird_111_name">Cedar waxwing</string>
-    <string name="bird_111_des">Replace Me</string>
+    <string name="bird_111_des">(Bombycilla cedrorum) is a member of the family Bombycillidae. Cedar
+   waxwings are known to be sociable and non-territorial, and can be seen grooming each other from time
+   to time. Their flocks typically move place to place to find good sources of berries.
+   https://en.wikipedia.org/wiki/Cedar_waxwing</string>
 
     <string name="bird_112_name">European starling</string>
-    <string name="bird_112_des">Replace Me</string>
+    <string name="bird_112_des">(Sturnus vulgaris) is a medium sized passerine bird of the starling family.
+   Its known for its ability to mimic the songs of other bids. These birds are seen as beneficial for
+   agriculture, because they control pest populations. In certain situations, however, they can be seen
+   as a past themselves since they sometimes feed on fruit and crops.
+   https://en.wikipedia.org/wiki/Common_starling</string>
 
     <string name="bird_113_name">Yellow warbler</string>
-    <string name="bird_113_des">Replace Me</string>
+    <string name="bird_113_des">(Setophaga petechia) is a New World wabler. This bird is known for being
+   extremely widespread, since it breeds in all of North America and some of northern South America.
+   https://en.wikipedia.org/wiki/American_yellow_warbler</string>
 
     <string name="bird_114_name">Yellow-rumped warbler</string>
-    <string name="bird_114_des">Replace Me</string>
+    <string name="bird_114_des">(Setophaga coronata) is a combination of several different types of warblers.
+   These birds are known to like coniferous and mixed coniferous-deciduous woodlands during breeding
+   season. At other points in the year, they tend to stay in places like streamside woodlands, pine
+   forests, or residential areas.
+   https://en.wikipedia.org/wiki/Yellow-rumped_warbler</string>
 
     <string name="bird_115_name">Palm warbler</string>
-    <string name="bird_115_des">Replace Me</string>
+    <string name="bird_115_des">(Setophaga palmarum) is a small songbird of the New World warbler family.
+   This bird has two distinct subspecies that differ in color. One of these subspecies, known as the
+   yellow palm warbler, is mostly yellow with some brown markings. On the other hand, its counterpart,
+   the brown palm warbler, is mostly brown with some yellow markings.
+   https://en.wikipedia.org/wiki/Palm_warbler</string>
 
     <string name="bird_116_name">American redstart</string>
-    <string name="bird_116_des">Replace Me</string>
+    <string name="bird_116_des">(Setophaga ruticilla) is a New World warbler. These birds feed almost
+   entirely on insects, which they either flycatch or glean from leaves. This species also has a skewed
+   sex ratio that results in a large number of unmated males.
+   https://en.wikipedia.org/wiki/American_redstart</string>
 
     <string name="bird_117_name">Prothonotary warbler</string>
-    <string name="bird_117_des">Replace Me</string>
+    <string name="bird_117_des">(Protonotaria citrea) is a small songbird of the New World warbler family.
+   It is the only member of the genus Protonotaria. It is the only known eastern warbler that likes to
+   nest in natural cavities, such as a woodpecker hole.
+   https://en.wikipedia.org/wiki/Prothonotary_warbler</string>
 
     <string name="bird_118_name">Common yellowthroat</string>
-    <string name="bird_118_des">Replace Me</string>
+    <string name="bird_118_des">(Geothlypis trichas) is a New World warbler. These birds like to breed
+   in marshes, or other areas that are wet with dense low vegetation. Male yellowthroats have a black
+   mask-like marking that covers their face. Females have been observed to choose males with the largest
+   mask.
+   https://en.wikipedia.org/wiki/Common_yellowthroat</string>
 
     <string name="bird_119_name">Yellow-breasted chat</string>
-    <string name="bird_119_des">Replace Me</string>
+    <string name="bird_119_des">(Icteria virens) is a large songbird, native to North America. It is
+   the only known member of the Icteriidae family. It used to be a member of the New World warbler
+   family until 2017, when the American Ornithological Society decided it should be in its own.
+   https://en.wikipedia.org/wiki/Yellow-breasted_chat</string>
 
     <string name="bird_120_name">Scarlet tanager</string>
     <string name="bird_120_des">(Piranga olivacea) is a medium sized American songbird. It is classified

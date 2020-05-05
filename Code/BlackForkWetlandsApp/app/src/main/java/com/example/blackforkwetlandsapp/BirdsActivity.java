@@ -26,7 +26,7 @@ public class BirdsActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(linearLayoutManager);
 
         birdList.add(new OrganismClass(getString(R.string.bird_1_name)
-                , getString(R.string.bird_1_des), R.drawable.ic_android2));
+                , getString(R.string.bird_1_des), R.drawable.bird_1_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_2_name)
                 , getString(R.string.bird_2_des), R.drawable.bird_2_img));
@@ -444,10 +444,10 @@ public class BirdsActivity extends AppCompatActivity {
                 , getString(R.string.bird_139_des), R.drawable.bird_139_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_140_name)
-                , getString(R.string.bird_140_des), R.drawable.ic_android2));
+                , getString(R.string.bird_140_des), R.drawable.bird_140_img));
 
         birdList.add(new OrganismClass(getString(R.string.bird_141_name)
-                , getString(R.string.bird_141_des), R.drawable.ic_android2));
+                , getString(R.string.bird_141_des), R.drawable.bird_141_img));
 
 
 
