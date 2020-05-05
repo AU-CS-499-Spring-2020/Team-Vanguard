@@ -44,6 +44,12 @@
 
 **4/27/2020 12:00pm-2:00pm** Fixed an issue with some of the images being to big and filling most of the screen. Added some automatic image scaling in order to fix this
 
+**5/3/2020 10:00am-2:00pm** Worked on adding in the remaining sepecies data
+
+**5/4/2020 11:00am-2:00pm** Made a bunch of misc changes to the application, such as changing the look of the homepage as well as getting rid of the code for the unused pages like the insects page. 
+
+**5/4/2020 8:00pm-12:00am** Recored URCA Presentation video, as well as worked on final presentation and the final project report
+
 **4/28/2020 11:00am-12:00pm** Updated the journal with most of what has been done over the past month
 
 
